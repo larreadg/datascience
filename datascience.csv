@@ -1,505 +1,3025 @@
-"Hecho Punible","Dpto","Denunciado","Aclarado","Semestre"
-"ABIGEATO","Asuncion","0","0","1"
-"COACCION SEXUAL","Asuncion","20","13","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Asuncion","13","13","1"
-"HOMICIDIO DOLOSO ","Asuncion","15","7","1"
-"HURTO","Asuncion","101","57","1"
-"HURTO AGRAVADO","Asuncion","78","29","1"
-"LESION CULPOSA EN ACC. DE TTO.","Asuncion","80","79","1"
-"LESION     ","Asuncion","83","54","1"
-"ROBO DE OBJETOS ","Asuncion","49","32","1"
-"ROBO AGRAVADO DE OBJETOS","Asuncion","50","13","1"
-"ROBO DE VEHICULOS","Asuncion","117","2","1"
-"ROBO AGRAVADO DE VEHICULOS","Asuncion","0","0","1"
-"ROBO DE MOTOCICLETAS","Asuncion","290","18","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Asuncion","2","1","1"
-"ABIGEATO","Central","19","1","1"
-"COACCION SEXUAL","Central","81","63","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Central","77","69","1"
-"HOMICIDIO DOLOSO ","Central","26","17","1"
-"HURTO","Central","245","135","1"
-"HURTO AGRAVADO","Central","188","70","1"
-"LESION CULPOSA EN ACC. DE TTO.","Central","285","273","1"
-"LESION     ","Central","211","94","1"
-"ROBO DE OBJETOS ","Central","86","48","1"
-"ROBO AGRAVADO DE OBJETOS","Central","263","53","1"
-"ROBO DE VEHICULOS","Central","125","2","1"
-"ROBO AGRAVADO DE VEHICULOS","Central","10","0","1"
-"ROBO DE MOTOCICLETAS","Central","474","23","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Central","77","8","1"
-"ABIGEATO","Cordillera","44","5","1"
-"COACCION SEXUAL","Cordillera","19","8","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Cordillera","12","10","1"
-"HOMICIDIO DOLOSO ","Cordillera","1","0","1"
-"HURTO","Cordillera","42","12","1"
-"HURTO AGRAVADO","Cordillera","34","7","1"
-"LESION CULPOSA EN ACC. DE TTO.","Cordillera","81","74","1"
-"LESION     ","Cordillera","23","15","1"
-"ROBO DE OBJETOS ","Cordillera","8","3","1"
-"ROBO AGRAVADO DE OBJETOS","Cordillera","15","1","1"
-"ROBO DE VEHICULOS","Cordillera","2","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Cordillera","2","0","1"
-"ROBO DE MOTOCICLETAS","Cordillera","44","7","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Cordillera","5","3","1"
-"ABIGEATO","Amambay","5","2","1"
-"COACCION SEXUAL","Amambay","12","7","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Amambay","14","12","1"
-"HOMICIDIO DOLOSO ","Amambay","47","8","1"
-"HURTO","Amambay","15","7","1"
-"HURTO AGRAVADO","Amambay","16","5","1"
-"LESION CULPOSA EN ACC. DE TTO.","Amambay","47","40","1"
-"LESION     ","Amambay","62","19","1"
-"ROBO DE OBJETOS ","Amambay","6","1","1"
-"ROBO AGRAVADO DE OBJETOS","Amambay","20","3","1"
-"ROBO DE VEHICULOS","Amambay","1","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Amambay","1","0","1"
-"ROBO DE MOTOCICLETAS","Amambay","11","4","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Amambay","9","3","1"
-"ABIGEATO","Concepcion","8","4","1"
-"COACCION SEXUAL","Concepcion","8","6","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Concepcion","18","17","1"
-"HOMICIDIO DOLOSO ","Concepcion","17","8","1"
-"HURTO","Concepcion","9","4","1"
-"HURTO AGRAVADO","Concepcion","18","4","1"
-"LESION CULPOSA EN ACC. DE TTO.","Concepcion","42","37","1"
-"LESION     ","Concepcion","39","22","1"
-"ROBO DE OBJETOS ","Concepcion","13","1","1"
-"ROBO AGRAVADO DE OBJETOS","Concepcion","25","3","1"
-"ROBO DE VEHICULOS","Concepcion","1","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Concepcion","0","0","1"
-"ROBO DE MOTOCICLETAS","Concepcion","34","1","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Concepcion","36","2","1"
-"ABIGEATO","Alto Paraguay","4","0","1"
-"COACCION SEXUAL","Alto Paraguay","0","0","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Alto Paraguay","1","1","1"
-"HOMICIDIO DOLOSO ","Alto Paraguay","5","1","1"
-"HURTO","Alto Paraguay","2","0","1"
-"HURTO AGRAVADO","Alto Paraguay","0","0","1"
-"LESION CULPOSA EN ACC. DE TTO.","Alto Paraguay","0","0","1"
-"LESION     ","Alto Paraguay","6","2","1"
-"ROBO DE OBJETOS ","Alto Paraguay","0","0","1"
-"ROBO AGRAVADO DE OBJETOS","Alto Paraguay","0","0","1"
-"ROBO DE VEHICULOS","Alto Paraguay","0","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Alto Paraguay","0","0","1"
-"ROBO DE MOTOCICLETAS","Alto Paraguay","4","1","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Alto Paraguay","0","0","1"
-"ABIGEATO","San Pedro","33","7","1"
-"COACCION SEXUAL","San Pedro","12","6","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","San Pedro","43","39","1"
-"HOMICIDIO DOLOSO ","San Pedro","7","3","1"
-"HURTO","San Pedro","12","8","1"
-"HURTO AGRAVADO","San Pedro","17","6","1"
-"LESION CULPOSA EN ACC. DE TTO.","San Pedro","65","61","1"
-"LESION     ","San Pedro","33","10","1"
-"ROBO DE OBJETOS ","San Pedro","2","2","1"
-"ROBO AGRAVADO DE OBJETOS","San Pedro","30","3","1"
-"ROBO DE VEHICULOS","San Pedro","3","1","1"
-"ROBO AGRAVADO DE VEHICULOS","San Pedro","2","0","1"
-"ROBO DE MOTOCICLETAS","San Pedro","9","3","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","San Pedro","9","3","1"
-"ABIGEATO","Caaguazu","30","5","1"
-"COACCION SEXUAL","Caaguazu","12","4","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Caaguazu","36","34","1"
-"HOMICIDIO DOLOSO ","Caaguazu","4","2","1"
-"HURTO","Caaguazu","34","15","1"
-"HURTO AGRAVADO","Caaguazu","31","5","1"
-"LESION CULPOSA EN ACC. DE TTO.","Caaguazu","148","133","1"
-"LESION     ","Caaguazu","47","26","1"
-"ROBO DE OBJETOS ","Caaguazu","3","2","1"
-"ROBO AGRAVADO DE OBJETOS","Caaguazu","32","1","1"
-"ROBO DE VEHICULOS","Caaguazu","3","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Caaguazu","5","1","1"
-"ROBO DE MOTOCICLETAS","Caaguazu","30","1","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Caaguazu","5","1","1"
-"ABIGEATO","Caazapa","30","5","1"
-"COACCION SEXUAL","Caazapa","8","4","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Caazapa","8","7","1"
-"HOMICIDIO DOLOSO ","Caazapa","8","2","1"
-"HURTO","Caazapa","7","1","1"
-"HURTO AGRAVADO","Caazapa","17","1","1"
-"LESION CULPOSA EN ACC. DE TTO.","Caazapa","24","23","1"
-"LESION     ","Caazapa","12","5","1"
-"ROBO DE OBJETOS ","Caazapa","0","0","1"
-"ROBO AGRAVADO DE OBJETOS","Caazapa","20","0","1"
-"ROBO DE VEHICULOS","Caazapa","1","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Caazapa","2","0","1"
-"ROBO DE MOTOCICLETAS","Caazapa","14","2","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Caazapa","6","1","1"
-"ABIGEATO","Guaira","26","6","1"
-"COACCION SEXUAL","Guaira","6","3","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Guaira","12","10","1"
-"HOMICIDIO DOLOSO ","Guaira","9","2","1"
-"HURTO","Guaira","20","13","1"
-"HURTO AGRAVADO","Guaira","15","8","1"
-"LESION CULPOSA EN ACC. DE TTO.","Guaira","36","30","1"
-"LESION     ","Guaira","10","6","1"
-"ROBO DE OBJETOS ","Guaira","0","0","1"
-"ROBO AGRAVADO DE OBJETOS","Guaira","12","0","1"
-"ROBO DE VEHICULOS","Guaira","3","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Guaira","1","0","1"
-"ROBO DE MOTOCICLETAS","Guaira","34","10","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Guaira","3","2","1"
-"ABIGEATO","Alto Parana","12","3","1"
-"COACCION SEXUAL","Alto Parana","45","24","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Alto Parana","28","23","1"
-"HOMICIDIO DOLOSO ","Alto Parana","32","11","1"
-"HURTO","Alto Parana","77","37","1"
-"HURTO AGRAVADO","Alto Parana","53","15","1"
-"LESION CULPOSA EN ACC. DE TTO.","Alto Parana","112","101","1"
-"LESION     ","Alto Parana","70","25","1"
-"ROBO DE OBJETOS ","Alto Parana","36","6","1"
-"ROBO AGRAVADO DE OBJETOS","Alto Parana","99","16","1"
-"ROBO DE VEHICULOS","Alto Parana","10","1","1"
-"ROBO AGRAVADO DE VEHICULOS","Alto Parana","12","3","1"
-"ROBO DE MOTOCICLETAS","Alto Parana","46","8","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Alto Parana","15","2","1"
-"ABIGEATO","Itapua","31","5","1"
-"COACCION SEXUAL","Itapua","26","10","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Itapua","20","20","1"
-"HOMICIDIO DOLOSO ","Itapua","14","8","1"
-"HURTO","Itapua","76","32","1"
-"HURTO AGRAVADO","Itapua","33","10","1"
-"LESION CULPOSA EN ACC. DE TTO.","Itapua","78","71","1"
-"LESION     ","Itapua","42","21","1"
-"ROBO DE OBJETOS ","Itapua","10","3","1"
-"ROBO AGRAVADO DE OBJETOS","Itapua","37","8","1"
-"ROBO DE VEHICULOS","Itapua","6","3","1"
-"ROBO AGRAVADO DE VEHICULOS","Itapua","3","1","1"
-"ROBO DE MOTOCICLETAS","Itapua","62","1","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Itapua","7","3","1"
-"ABIGEATO","Canindeyu","1","0","1"
-"COACCION SEXUAL","Canindeyu","5","3","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Canindeyu","8","7","1"
-"HOMICIDIO DOLOSO ","Canindeyu","5","1","1"
-"HURTO","Canindeyu","8","4","1"
-"HURTO AGRAVADO","Canindeyu","6","2","1"
-"LESION CULPOSA EN ACC. DE TTO.","Canindeyu","8","8","1"
-"LESION     ","Canindeyu","13","3","1"
-"ROBO DE OBJETOS ","Canindeyu","1","0","1"
-"ROBO AGRAVADO DE OBJETOS","Canindeyu","15","1","1"
-"ROBO DE VEHICULOS","Canindeyu","1","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Canindeyu","2","1","1"
-"ROBO DE MOTOCICLETAS","Canindeyu","4","0","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Canindeyu","2","0","1"
-"ABIGEATO","Misiones","6","1","1"
-"COACCION SEXUAL","Misiones","2","1","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Misiones","10","8","1"
-"HOMICIDIO DOLOSO ","Misiones","2","0","1"
-"HURTO","Misiones","9","4","1"
-"HURTO AGRAVADO","Misiones","10","8","1"
-"LESION CULPOSA EN ACC. DE TTO.","Misiones","29","29","1"
-"LESION     ","Misiones","9","5","1"
-"ROBO DE OBJETOS ","Misiones","1","1","1"
-"ROBO AGRAVADO DE OBJETOS","Misiones","0","0","1"
-"ROBO DE VEHICULOS","Misiones","0","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Misiones","0","0","1"
-"ROBO DE MOTOCICLETAS","Misiones","2","0","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Misiones","0","0","1"
-"ABIGEATO","Paraguari","61","26","1"
-"COACCION SEXUAL","Paraguari","11","2","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Paraguari","19","18","1"
-"HOMICIDIO DOLOSO ","Paraguari","1","1","1"
-"HURTO","Paraguari","18","6","1"
-"HURTO AGRAVADO","Paraguari","29","3","1"
-"LESION CULPOSA EN ACC. DE TTO.","Paraguari","98","93","1"
-"LESION     ","Paraguari","18","6","1"
-"ROBO DE OBJETOS ","Paraguari","5","3","1"
-"ROBO AGRAVADO DE OBJETOS","Paraguari","13","3","1"
-"ROBO DE VEHICULOS","Paraguari","3","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Paraguari","2","1","1"
-"ROBO DE MOTOCICLETAS","Paraguari","27","5","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Paraguari","3","1","1"
-"ABIGEATO","Ñeembucu","35","10","1"
-"COACCION SEXUAL","Ñeembucu","7","4","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Ñeembucu","2","2","1"
-"HOMICIDIO DOLOSO ","Ñeembucu","1","0","1"
-"HURTO","Ñeembucu","17","3","1"
-"HURTO AGRAVADO","Ñeembucu","9","1","1"
-"LESION CULPOSA EN ACC. DE TTO.","Ñeembucu","35","34","1"
-"LESION     ","Ñeembucu","9","5","1"
-"ROBO DE OBJETOS ","Ñeembucu","1","0","1"
-"ROBO AGRAVADO DE OBJETOS","Ñeembucu","0","0","1"
-"ROBO DE VEHICULOS","Ñeembucu","0","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Ñeembucu","0","0","1"
-"ROBO DE MOTOCICLETAS","Ñeembucu","13","3","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Ñeembucu","0","0","1"
-"ABIGEATO","Boqueron","0","0","1"
-"COACCION SEXUAL","Boqueron","3","3","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Boqueron","4","3","1"
-"HOMICIDIO DOLOSO ","Boqueron","0","0","1"
-"HURTO","Boqueron","2","1","1"
-"HURTO AGRAVADO","Boqueron","3","2","1"
-"LESION CULPOSA EN ACC. DE TTO.","Boqueron","6","6","1"
-"LESION     ","Boqueron","11","7","1"
-"ROBO DE OBJETOS ","Boqueron","0","0","1"
-"ROBO AGRAVADO DE OBJETOS","Boqueron","1","1","1"
-"ROBO DE VEHICULOS","Boqueron","1","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Boqueron","0","0","1"
-"ROBO DE MOTOCICLETAS","Boqueron","3","1","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Boqueron","0","0","1"
-"ABIGEATO","Presidente Hayes","3","2","1"
-"COACCION SEXUAL","Presidente Hayes","3","2","1"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Presidente Hayes","9","9","1"
-"HOMICIDIO DOLOSO ","Presidente Hayes","4","4","1"
-"HURTO","Presidente Hayes","11","5","1"
-"HURTO AGRAVADO","Presidente Hayes","2","0","1"
-"LESION CULPOSA EN ACC. DE TTO.","Presidente Hayes","13","13","1"
-"LESION     ","Presidente Hayes","11","9","1"
-"ROBO DE OBJETOS ","Presidente Hayes","2","1","1"
-"ROBO AGRAVADO DE OBJETOS","Presidente Hayes","7","4","1"
-"ROBO DE VEHICULOS","Presidente Hayes","1","0","1"
-"ROBO AGRAVADO DE VEHICULOS","Presidente Hayes","0","0","1"
-"ROBO DE MOTOCICLETAS","Presidente Hayes","22","7","1"
-"ROBO AGRAVADO DE MOTOCICLETAS","Presidente Hayes","1","0","1"
-"ABIGEATO","Asuncion","1","0","2"
-"COACCION SEXUAL","Asuncion","9","8","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Asuncion","8","8","2"
-"HOMICIDIO DOLOSO ","Asuncion","6","5","2"
-"HURTO","Asuncion","48","26","2"
-"HURTO AGRAVADO","Asuncion","41","19","2"
-"LESION CULPOSA EN ACC. DE TTO.","Asuncion","35","35","2"
-"LESION     ","Asuncion","33","27","2"
-"ROBO DE OBJETOS ","Asuncion","31","18","2"
-"ROBO AGRAVADO DE OBJETOS","Asuncion","39","18","2"
-"ROBO DE VEHICULOS","Asuncion","82","1","2"
-"ROBO AGRAVADO DE VEHICULOS","Asuncion","0","0","2"
-"ROBO DE MOTOCICLETAS","Asuncion","173","13","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Asuncion","0","0","2"
-"ABIGEATO","Central","4","0","2"
-"COACCION SEXUAL","Central","58","42","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Central","40","35","2"
-"HOMICIDIO DOLOSO ","Central","16","8","2"
-"HURTO","Central","131","76","2"
-"HURTO AGRAVADO","Central","104","44","2"
-"LESION CULPOSA EN ACC. DE TTO.","Central","178","171","2"
-"LESION     ","Central","99","42","2"
-"ROBO DE OBJETOS ","Central","56","26","2"
-"ROBO AGRAVADO DE OBJETOS","Central","162","32","2"
-"ROBO DE VEHICULOS","Central","74","1","2"
-"ROBO AGRAVADO DE VEHICULOS","Central","6","0","2"
-"ROBO DE MOTOCICLETAS","Central","238","8","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Central","31","4","2"
-"ABIGEATO","Cordillera","20","1","2"
-"COACCION SEXUAL","Cordillera","7","3","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Cordillera","17","15","2"
-"HOMICIDIO DOLOSO ","Cordillera","3","3","2"
-"HURTO","Cordillera","22","7","2"
-"HURTO AGRAVADO","Cordillera","19","3","2"
-"LESION CULPOSA EN ACC. DE TTO.","Cordillera","37","36","2"
-"LESION     ","Cordillera","13","6","2"
-"ROBO DE OBJETOS ","Cordillera","1","0","2"
-"ROBO AGRAVADO DE OBJETOS","Cordillera","14","0","2"
-"ROBO DE VEHICULOS","Cordillera","1","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Cordillera","2","0","2"
-"ROBO DE MOTOCICLETAS","Cordillera","19","3","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Cordillera","3","1","2"
-"ABIGEATO","Amambay","5","2","2"
-"COACCION SEXUAL","Amambay","11","7","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Amambay","6","5","2"
-"HOMICIDIO DOLOSO ","Amambay","27","4","2"
-"HURTO","Amambay","8","3","2"
-"HURTO AGRAVADO","Amambay","10","6","2"
-"LESION CULPOSA EN ACC. DE TTO.","Amambay","27","23","2"
-"LESION     ","Amambay","37","7","2"
-"ROBO DE OBJETOS ","Amambay","6","1","2"
-"ROBO AGRAVADO DE OBJETOS","Amambay","8","3","2"
-"ROBO DE VEHICULOS","Amambay","0","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Amambay","1","0","2"
-"ROBO DE MOTOCICLETAS","Amambay","3","0","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Amambay","5","0","2"
-"ABIGEATO","Concepcion","2","1","2"
-"COACCION SEXUAL","Concepcion","0","0","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Concepcion","14","13","2"
-"HOMICIDIO DOLOSO ","Concepcion","4","1","2"
-"HURTO","Concepcion","2","0","2"
-"HURTO AGRAVADO","Concepcion","8","2","2"
-"LESION CULPOSA EN ACC. DE TTO.","Concepcion","36","34","2"
-"LESION     ","Concepcion","16","4","2"
-"ROBO DE OBJETOS ","Concepcion","5","1","2"
-"ROBO AGRAVADO DE OBJETOS","Concepcion","7","0","2"
-"ROBO DE VEHICULOS","Concepcion","0","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Concepcion","0","0","2"
-"ROBO DE MOTOCICLETAS","Concepcion","9","1","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Concepcion","5","1","2"
-"ABIGEATO","Alto Paraguay","3","1","2"
-"COACCION SEXUAL","Alto Paraguay","0","0","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Alto Paraguay","2","2","2"
-"HOMICIDIO DOLOSO ","Alto Paraguay","0","0","2"
-"HURTO","Alto Paraguay","0","0","2"
-"HURTO AGRAVADO","Alto Paraguay","0","0","2"
-"LESION CULPOSA EN ACC. DE TTO.","Alto Paraguay","4","3","2"
-"LESION     ","Alto Paraguay","0","0","2"
-"ROBO DE OBJETOS ","Alto Paraguay","0","0","2"
-"ROBO AGRAVADO DE OBJETOS","Alto Paraguay","0","0","2"
-"ROBO DE VEHICULOS","Alto Paraguay","0","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Alto Paraguay","0","0","2"
-"ROBO DE MOTOCICLETAS","Alto Paraguay","1","1","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Alto Paraguay","0","0","2"
-"ABIGEATO","San Pedro","16","1","2"
-"COACCION SEXUAL","San Pedro","4","1","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","San Pedro","16","16","2"
-"HOMICIDIO DOLOSO ","San Pedro","7","3","2"
-"HURTO","San Pedro","6","5","2"
-"HURTO AGRAVADO","San Pedro","9","1","2"
-"LESION CULPOSA EN ACC. DE TTO.","San Pedro","29","26","2"
-"LESION     ","San Pedro","9","6","2"
-"ROBO DE OBJETOS ","San Pedro","2","2","2"
-"ROBO AGRAVADO DE OBJETOS","San Pedro","26","3","2"
-"ROBO DE VEHICULOS","San Pedro","1","0","2"
-"ROBO AGRAVADO DE VEHICULOS","San Pedro","1","0","2"
-"ROBO DE MOTOCICLETAS","San Pedro","4","1","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","San Pedro","7","1","2"
-"ABIGEATO","Caaguazu","15","1","2"
-"COACCION SEXUAL","Caaguazu","12","7","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Caaguazu","19","19","2"
-"HOMICIDIO DOLOSO ","Caaguazu","10","5","2"
-"HURTO","Caaguazu","16","8","2"
-"HURTO AGRAVADO","Caaguazu","18","4","2"
-"LESION CULPOSA EN ACC. DE TTO.","Caaguazu","81","78","2"
-"LESION     ","Caaguazu","28","13","2"
-"ROBO DE OBJETOS ","Caaguazu","2","0","2"
-"ROBO AGRAVADO DE OBJETOS","Caaguazu","26","2","2"
-"ROBO DE VEHICULOS","Caaguazu","8","1","2"
-"ROBO AGRAVADO DE VEHICULOS","Caaguazu","1","0","2"
-"ROBO DE MOTOCICLETAS","Caaguazu","22","5","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Caaguazu","4","2","2"
-"ABIGEATO","Caazapa","8","2","2"
-"COACCION SEXUAL","Caazapa","1","1","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Caazapa","3","3","2"
-"HOMICIDIO DOLOSO ","Caazapa","1","1","2"
-"HURTO","Caazapa","2","1","2"
-"HURTO AGRAVADO","Caazapa","3","0","2"
-"LESION CULPOSA EN ACC. DE TTO.","Caazapa","3","3","2"
-"LESION     ","Caazapa","7","3","2"
-"ROBO DE OBJETOS ","Caazapa","0","0","2"
-"ROBO AGRAVADO DE OBJETOS","Caazapa","6","0","2"
-"ROBO DE VEHICULOS","Caazapa","0","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Caazapa","1","0","2"
-"ROBO DE MOTOCICLETAS","Caazapa","4","1","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Caazapa","1","0","2"
-"ABIGEATO","Guaira","13","2","2"
-"COACCION SEXUAL","Guaira","1","1","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Guaira","16","16","2"
-"HOMICIDIO DOLOSO ","Guaira","1","0","2"
-"HURTO","Guaira","12","8","2"
-"HURTO AGRAVADO","Guaira","3","0","2"
-"LESION CULPOSA EN ACC. DE TTO.","Guaira","31","31","2"
-"LESION     ","Guaira","5","3","2"
-"ROBO DE OBJETOS ","Guaira","2","1","2"
-"ROBO AGRAVADO DE OBJETOS","Guaira","8","1","2"
-"ROBO DE VEHICULOS","Guaira","3","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Guaira","4","0","2"
-"ROBO DE MOTOCICLETAS","Guaira","12","3","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Guaira","1","1","2"
-"ABIGEATO","Alto Parana","2","1","2"
-"COACCION SEXUAL","Alto Parana","15","12","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Alto Parana","20","16","2"
-"HOMICIDIO DOLOSO ","Alto Parana","9","4","2"
-"HURTO","Alto Parana","31","8","2"
-"HURTO AGRAVADO","Alto Parana","24","6","2"
-"LESION CULPOSA EN ACC. DE TTO.","Alto Parana","71","65","2"
-"LESION     ","Alto Parana","45","12","2"
-"ROBO DE OBJETOS ","Alto Parana","14","3","2"
-"ROBO AGRAVADO DE OBJETOS","Alto Parana","77","12","2"
-"ROBO DE VEHICULOS","Alto Parana","8","3","2"
-"ROBO AGRAVADO DE VEHICULOS","Alto Parana","10","2","2"
-"ROBO DE MOTOCICLETAS","Alto Parana","26","5","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Alto Parana","11","1","2"
-"ABIGEATO","Itapua","13","3","2"
-"COACCION SEXUAL","Itapua","7","3","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Itapua","9","9","2"
-"HOMICIDIO DOLOSO ","Itapua","4","0","2"
-"HURTO","Itapua","38","11","2"
-"HURTO AGRAVADO","Itapua","28","2","2"
-"LESION CULPOSA EN ACC. DE TTO.","Itapua","53","51","2"
-"LESION     ","Itapua","22","7","2"
-"ROBO DE OBJETOS ","Itapua","11","2","2"
-"ROBO AGRAVADO DE OBJETOS","Itapua","21","1","2"
-"ROBO DE VEHICULOS","Itapua","6","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Itapua","0","0","2"
-"ROBO DE MOTOCICLETAS","Itapua","41","3","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Itapua","4","1","2"
-"ABIGEATO","Canindeyu","1","0","2"
-"COACCION SEXUAL","Canindeyu","2","1","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Canindeyu","13","12","2"
-"HOMICIDIO DOLOSO ","Canindeyu","8","2","2"
-"HURTO","Canindeyu","3","1","2"
-"HURTO AGRAVADO","Canindeyu","4","0","2"
-"LESION CULPOSA EN ACC. DE TTO.","Canindeyu","4","3","2"
-"LESION     ","Canindeyu","7","1","2"
-"ROBO DE OBJETOS ","Canindeyu","1","0","2"
-"ROBO AGRAVADO DE OBJETOS","Canindeyu","11","1","2"
-"ROBO DE VEHICULOS","Canindeyu","3","1","2"
-"ROBO AGRAVADO DE VEHICULOS","Canindeyu","1","1","2"
-"ROBO DE MOTOCICLETAS","Canindeyu","10","0","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Canindeyu","0","0","2"
-"ABIGEATO","Misiones","8","1","2"
-"COACCION SEXUAL","Misiones","2","0","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Misiones","6","6","2"
-"HOMICIDIO DOLOSO ","Misiones","0","0","2"
-"HURTO","Misiones","5","2","2"
-"HURTO AGRAVADO","Misiones","2","0","2"
-"LESION CULPOSA EN ACC. DE TTO.","Misiones","26","23","2"
-"LESION     ","Misiones","6","1","2"
-"ROBO DE OBJETOS ","Misiones","2","2","2"
-"ROBO AGRAVADO DE OBJETOS","Misiones","0","0","2"
-"ROBO DE VEHICULOS","Misiones","1","1","2"
-"ROBO AGRAVADO DE VEHICULOS","Misiones","0","0","2"
-"ROBO DE MOTOCICLETAS","Misiones","5","4","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Misiones","0","0","2"
-"ABIGEATO","Paraguari","20","7","2"
-"COACCION SEXUAL","Paraguari","4","2","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Paraguari","12","8","2"
-"HOMICIDIO DOLOSO ","Paraguari","12","1","2"
-"HURTO","Paraguari","10","7","2"
-"HURTO AGRAVADO","Paraguari","11","1","2"
-"LESION CULPOSA EN ACC. DE TTO.","Paraguari","46","44","2"
-"LESION     ","Paraguari","9","2","2"
-"ROBO DE OBJETOS ","Paraguari","1","0","2"
-"ROBO AGRAVADO DE OBJETOS","Paraguari","11","1","2"
-"ROBO DE VEHICULOS","Paraguari","3","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Paraguari","2","0","2"
-"ROBO DE MOTOCICLETAS","Paraguari","13","0","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Paraguari","1","0","2"
-"ABIGEATO","Ñeembucu","15","3","2"
-"COACCION SEXUAL","Ñeembucu","0","0","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Ñeembucu","8","3","2"
-"HOMICIDIO DOLOSO ","Ñeembucu","2","1","2"
-"HURTO","Ñeembucu","8","3","2"
-"HURTO AGRAVADO","Ñeembucu","4","1","2"
-"LESION CULPOSA EN ACC. DE TTO.","Ñeembucu","20","20","2"
-"LESION     ","Ñeembucu","5","2","2"
-"ROBO DE OBJETOS ","Ñeembucu","0","0","2"
-"ROBO AGRAVADO DE OBJETOS","Ñeembucu","2","0","2"
-"ROBO DE VEHICULOS","Ñeembucu","1","1","2"
-"ROBO AGRAVADO DE VEHICULOS","Ñeembucu","0","0","2"
-"ROBO DE MOTOCICLETAS","Ñeembucu","7","2","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Ñeembucu","0","0","2"
-"ABIGEATO","Boqueron","0","0","2"
-"COACCION SEXUAL","Boqueron","0","0","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Boqueron","2","2","2"
-"HOMICIDIO DOLOSO ","Boqueron","1","0","2"
-"HURTO","Boqueron","1","0","2"
-"HURTO AGRAVADO","Boqueron","1","1","2"
-"LESION CULPOSA EN ACC. DE TTO.","Boqueron","2","2","2"
-"LESION     ","Boqueron","3","0","2"
-"ROBO DE OBJETOS ","Boqueron","0","0","2"
-"ROBO AGRAVADO DE OBJETOS","Boqueron","3","0","2"
-"ROBO DE VEHICULOS","Boqueron","0","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Boqueron","0","0","2"
-"ROBO DE MOTOCICLETAS","Boqueron","0","0","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Boqueron","0","0","2"
-"ABIGEATO","Presidente Hayes","4","2","2"
-"COACCION SEXUAL","Presidente Hayes","2","2","2"
-"HOMICIDIO CULPOSO  EN ACC DE TTO. ","Presidente Hayes","6","5","2"
-"HOMICIDIO DOLOSO ","Presidente Hayes","3","3","2"
-"HURTO","Presidente Hayes","6","2","2"
-"HURTO AGRAVADO","Presidente Hayes","1","0","2"
-"LESION CULPOSA EN ACC. DE TTO.","Presidente Hayes","4","4","2"
-"LESION     ","Presidente Hayes","5","3","2"
-"ROBO DE OBJETOS ","Presidente Hayes","1","0","2"
-"ROBO AGRAVADO DE OBJETOS","Presidente Hayes","5","0","2"
-"ROBO DE VEHICULOS","Presidente Hayes","0","0","2"
-"ROBO AGRAVADO DE VEHICULOS","Presidente Hayes","0","0","2"
-"ROBO DE MOTOCICLETAS","Presidente Hayes","6","1","2"
-"ROBO AGRAVADO DE MOTOCICLETAS","Presidente Hayes","0","0","2"
+Hecho Punible,Dpto,Denunciado,Aclarado,Semestre,Mes,Mes_Num
+ABIGEATO,Asuncion,0,0,1,Enero,1
+COACCION SEXUAL,Asuncion,6,4,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,4,4,1,Enero,1
+HOMICIDIO DOLOSO,Asuncion,1,1,1,Enero,1
+HURTO,Asuncion,26,18,1,Enero,1
+HURTO AGRAVADO,Asuncion,12,8,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,16,16,1,Enero,1
+LESION,Asuncion,19,9,1,Enero,1
+ROBO DE OBJETOS,Asuncion,10,6,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Asuncion,9,0,1,Enero,1
+ROBO DE VEHICULOS,Asuncion,26,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Asuncion,45,2,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,1,0,1,Enero,1
+ABIGEATO,Central,5,0,1,Enero,1
+COACCION SEXUAL,Central,17,11,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,10,9,1,Enero,1
+HOMICIDIO DOLOSO,Central,8,3,1,Enero,1
+HURTO,Central,64,36,1,Enero,1
+HURTO AGRAVADO,Central,35,13,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Central,56,56,1,Enero,1
+LESION,Central,45,24,1,Enero,1
+ROBO DE OBJETOS,Central,19,11,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Central,49,13,1,Enero,1
+ROBO DE VEHICULOS,Central,30,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Central,1,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Central,86,4,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Central,14,2,1,Enero,1
+ABIGEATO,Cordillera,4,0,1,Enero,1
+COACCION SEXUAL,Cordillera,4,1,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,2,1,1,Enero,1
+HOMICIDIO DOLOSO,Cordillera,0,0,1,Enero,1
+HURTO,Cordillera,11,3,1,Enero,1
+HURTO AGRAVADO,Cordillera,4,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,23,22,1,Enero,1
+LESION,Cordillera,7,5,1,Enero,1
+ROBO DE OBJETOS,Cordillera,4,1,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Cordillera,4,0,1,Enero,1
+ROBO DE VEHICULOS,Cordillera,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Cordillera,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Cordillera,11,1,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,0,0,1,Enero,1
+ABIGEATO,Amambay,1,0,1,Enero,1
+COACCION SEXUAL,Amambay,1,0,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,1,0,1,Enero,1
+HOMICIDIO DOLOSO,Amambay,10,1,1,Enero,1
+HURTO,Amambay,6,3,1,Enero,1
+HURTO AGRAVADO,Amambay,1,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Amambay,7,5,1,Enero,1
+LESION,Amambay,19,3,1,Enero,1
+ROBO DE OBJETOS,Amambay,2,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Amambay,6,2,1,Enero,1
+ROBO DE VEHICULOS,Amambay,1,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Amambay,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Amambay,0,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,0,0,1,Enero,1
+ABIGEATO,Concepcion,1,1,1,Enero,1
+COACCION SEXUAL,Concepcion,3,3,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,4,3,1,Enero,1
+HOMICIDIO DOLOSO,Concepcion,3,3,1,Enero,1
+HURTO,Concepcion,4,2,1,Enero,1
+HURTO AGRAVADO,Concepcion,4,2,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,4,3,1,Enero,1
+LESION,Concepcion,10,5,1,Enero,1
+ROBO DE OBJETOS,Concepcion,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Concepcion,8,2,1,Enero,1
+ROBO DE VEHICULOS,Concepcion,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Concepcion,12,1,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,10,1,1,Enero,1
+ABIGEATO,Alto Paraguay,1,0,1,Enero,1
+COACCION SEXUAL,Alto Paraguay,0,0,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,1,Enero,1
+HOMICIDIO DOLOSO,Alto Paraguay,1,0,1,Enero,1
+HURTO,Alto Paraguay,1,0,1,Enero,1
+HURTO AGRAVADO,Alto Paraguay,0,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,0,0,1,Enero,1
+LESION,Alto Paraguay,1,1,1,Enero,1
+ROBO DE OBJETOS,Alto Paraguay,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,1,Enero,1
+ROBO DE VEHICULOS,Alto Paraguay,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Alto Paraguay,1,1,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Enero,1
+ABIGEATO,San Pedro,4,1,1,Enero,1
+COACCION SEXUAL,San Pedro,0,0,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,9,9,1,Enero,1
+HOMICIDIO DOLOSO,San Pedro,2,0,1,Enero,1
+HURTO,San Pedro,3,1,1,Enero,1
+HURTO AGRAVADO,San Pedro,3,1,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,13,13,1,Enero,1
+LESION,San Pedro,7,1,1,Enero,1
+ROBO DE OBJETOS,San Pedro,2,2,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,San Pedro,5,2,1,Enero,1
+ROBO DE VEHICULOS,San Pedro,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,San Pedro,0,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,0,0,1,Enero,1
+ABIGEATO,Caaguazu,8,1,1,Enero,1
+COACCION SEXUAL,Caaguazu,4,0,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,11,9,1,Enero,1
+HOMICIDIO DOLOSO,Caaguazu,1,1,1,Enero,1
+HURTO,Caaguazu,11,5,1,Enero,1
+HURTO AGRAVADO,Caaguazu,7,2,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,23,20,1,Enero,1
+LESION,Caaguazu,8,4,1,Enero,1
+ROBO DE OBJETOS,Caaguazu,2,2,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Caaguazu,7,0,1,Enero,1
+ROBO DE VEHICULOS,Caaguazu,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Caaguazu,8,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,1,1,1,Enero,1
+ABIGEATO,Caazapa,5,2,1,Enero,1
+COACCION SEXUAL,Caazapa,0,0,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,2,2,1,Enero,1
+HOMICIDIO DOLOSO,Caazapa,2,0,1,Enero,1
+HURTO,Caazapa,1,0,1,Enero,1
+HURTO AGRAVADO,Caazapa,4,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,3,2,1,Enero,1
+LESION,Caazapa,1,1,1,Enero,1
+ROBO DE OBJETOS,Caazapa,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Caazapa,8,0,1,Enero,1
+ROBO DE VEHICULOS,Caazapa,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Caazapa,1,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,2,1,1,Enero,1
+ABIGEATO,Guaira,1,1,1,Enero,1
+COACCION SEXUAL,Guaira,0,0,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,3,1,1,Enero,1
+HOMICIDIO DOLOSO,Guaira,2,1,1,Enero,1
+HURTO,Guaira,5,4,1,Enero,1
+HURTO AGRAVADO,Guaira,5,2,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Guaira,8,6,1,Enero,1
+LESION,Guaira,1,0,1,Enero,1
+ROBO DE OBJETOS,Guaira,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Guaira,2,0,1,Enero,1
+ROBO DE VEHICULOS,Guaira,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Guaira,15,5,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,1,0,1,Enero,1
+ABIGEATO,Alto Parana,2,1,1,Enero,1
+COACCION SEXUAL,Alto Parana,7,3,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,4,4,1,Enero,1
+HOMICIDIO DOLOSO,Alto Parana,8,3,1,Enero,1
+HURTO,Alto Parana,22,9,1,Enero,1
+HURTO AGRAVADO,Alto Parana,7,2,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,29,24,1,Enero,1
+LESION,Alto Parana,11,7,1,Enero,1
+ROBO DE OBJETOS,Alto Parana,11,3,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Alto Parana,16,5,1,Enero,1
+ROBO DE VEHICULOS,Alto Parana,4,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Alto Parana,9,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,2,1,1,Enero,1
+ABIGEATO,Itapua,7,1,1,Enero,1
+COACCION SEXUAL,Itapua,6,2,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,2,2,1,Enero,1
+HOMICIDIO DOLOSO,Itapua,4,2,1,Enero,1
+HURTO,Itapua,19,6,1,Enero,1
+HURTO AGRAVADO,Itapua,3,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Itapua,9,8,1,Enero,1
+LESION,Itapua,7,5,1,Enero,1
+ROBO DE OBJETOS,Itapua,2,1,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Itapua,11,3,1,Enero,1
+ROBO DE VEHICULOS,Itapua,1,1,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Itapua,1,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Itapua,24,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,0,0,1,Enero,1
+ABIGEATO,Canindeyu,1,0,1,Enero,1
+COACCION SEXUAL,Canindeyu,0,0,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,0,0,1,Enero,1
+HOMICIDIO DOLOSO,Canindeyu,0,0,1,Enero,1
+HURTO,Canindeyu,0,0,1,Enero,1
+HURTO AGRAVADO,Canindeyu,0,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,0,0,1,Enero,1
+LESION,Canindeyu,1,0,1,Enero,1
+ROBO DE OBJETOS,Canindeyu,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Canindeyu,2,0,1,Enero,1
+ROBO DE VEHICULOS,Canindeyu,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Canindeyu,0,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,1,0,1,Enero,1
+ABIGEATO,Misiones,0,0,1,Enero,1
+COACCION SEXUAL,Misiones,1,1,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,4,4,1,Enero,1
+HOMICIDIO DOLOSO,Misiones,1,0,1,Enero,1
+HURTO,Misiones,2,0,1,Enero,1
+HURTO AGRAVADO,Misiones,0,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Misiones,6,6,1,Enero,1
+LESION,Misiones,5,4,1,Enero,1
+ROBO DE OBJETOS,Misiones,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,1,Enero,1
+ROBO DE VEHICULOS,Misiones,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Misiones,0,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,1,Enero,1
+ABIGEATO,Paraguari,3,2,1,Enero,1
+COACCION SEXUAL,Paraguari,3,1,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,6,6,1,Enero,1
+HOMICIDIO DOLOSO,Paraguari,0,0,1,Enero,1
+HURTO,Paraguari,4,0,1,Enero,1
+HURTO AGRAVADO,Paraguari,8,1,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,21,20,1,Enero,1
+LESION,Paraguari,2,0,1,Enero,1
+ROBO DE OBJETOS,Paraguari,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Paraguari,3,1,1,Enero,1
+ROBO DE VEHICULOS,Paraguari,1,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Paraguari,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Paraguari,11,1,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,0,0,1,Enero,1
+ABIGEATO,Ñeembucu,7,2,1,Enero,1
+COACCION SEXUAL,Ñeembucu,1,1,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,1,1,1,Enero,1
+HOMICIDIO DOLOSO,Ñeembucu,0,0,1,Enero,1
+HURTO,Ñeembucu,2,0,1,Enero,1
+HURTO AGRAVADO,Ñeembucu,3,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,7,6,1,Enero,1
+LESION,Ñeembucu,5,3,1,Enero,1
+ROBO DE OBJETOS,Ñeembucu,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,1,Enero,1
+ROBO DE VEHICULOS,Ñeembucu,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Ñeembucu,2,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,1,Enero,1
+ABIGEATO,Boqueron,0,0,1,Enero,1
+COACCION SEXUAL,Boqueron,1,1,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,1,1,1,Enero,1
+HOMICIDIO DOLOSO,Boqueron,0,0,1,Enero,1
+HURTO,Boqueron,0,0,1,Enero,1
+HURTO AGRAVADO,Boqueron,0,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,0,0,1,Enero,1
+LESION,Boqueron,2,2,1,Enero,1
+ROBO DE OBJETOS,Boqueron,0,0,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,1,Enero,1
+ROBO DE VEHICULOS,Boqueron,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Boqueron,1,0,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,1,Enero,1
+ABIGEATO,Presidente Hayes,1,0,1,Enero,1
+COACCION SEXUAL,Presidente Hayes,1,1,1,Enero,1
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,2,2,1,Enero,1
+HOMICIDIO DOLOSO,Presidente Hayes,0,0,1,Enero,1
+HURTO,Presidente Hayes,2,1,1,Enero,1
+HURTO AGRAVADO,Presidente Hayes,0,0,1,Enero,1
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,3,3,1,Enero,1
+LESION,Presidente Hayes,2,1,1,Enero,1
+ROBO DE OBJETOS,Presidente Hayes,1,1,1,Enero,1
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,2,2,1,Enero,1
+ROBO DE VEHICULOS,Presidente Hayes,0,0,1,Enero,1
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,1,Enero,1
+ROBO DE MOTOCICLETAS,Presidente Hayes,8,4,1,Enero,1
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,1,0,1,Enero,1
+ABIGEATO,Asuncion,0,0,1,Febrero,2
+COACCION SEXUAL,Asuncion,5,3,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,4,4,1,Febrero,2
+HOMICIDIO DOLOSO,Asuncion,2,1,1,Febrero,2
+HURTO,Asuncion,18,13,1,Febrero,2
+HURTO AGRAVADO,Asuncion,17,7,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,17,16,1,Febrero,2
+LESION,Asuncion,16,8,1,Febrero,2
+ROBO DE OBJETOS,Asuncion,11,6,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Asuncion,7,3,1,Febrero,2
+ROBO DE VEHICULOS,Asuncion,19,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Asuncion,38,4,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,1,1,1,Febrero,2
+ABIGEATO,Central,2,0,1,Febrero,2
+COACCION SEXUAL,Central,7,4,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,16,13,1,Febrero,2
+HOMICIDIO DOLOSO,Central,3,2,1,Febrero,2
+HURTO,Central,49,26,1,Febrero,2
+HURTO AGRAVADO,Central,28,13,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Central,52,46,1,Febrero,2
+LESION,Central,40,17,1,Febrero,2
+ROBO DE OBJETOS,Central,21,15,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Central,41,6,1,Febrero,2
+ROBO DE VEHICULOS,Central,32,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Central,1,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Central,107,6,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Central,17,2,1,Febrero,2
+ABIGEATO,Cordillera,4,1,1,Febrero,2
+COACCION SEXUAL,Cordillera,0,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,3,3,1,Febrero,2
+HOMICIDIO DOLOSO,Cordillera,0,0,1,Febrero,2
+HURTO,Cordillera,7,1,1,Febrero,2
+HURTO AGRAVADO,Cordillera,7,3,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,11,10,1,Febrero,2
+LESION,Cordillera,2,1,1,Febrero,2
+ROBO DE OBJETOS,Cordillera,1,1,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Cordillera,4,1,1,Febrero,2
+ROBO DE VEHICULOS,Cordillera,1,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Cordillera,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Cordillera,18,4,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,3,2,1,Febrero,2
+ABIGEATO,Amambay,0,0,1,Febrero,2
+COACCION SEXUAL,Amambay,2,1,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,4,4,1,Febrero,2
+HOMICIDIO DOLOSO,Amambay,5,1,1,Febrero,2
+HURTO,Amambay,3,2,1,Febrero,2
+HURTO AGRAVADO,Amambay,2,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Amambay,3,2,1,Febrero,2
+LESION,Amambay,10,3,1,Febrero,2
+ROBO DE OBJETOS,Amambay,1,1,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Amambay,3,0,1,Febrero,2
+ROBO DE VEHICULOS,Amambay,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Amambay,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Amambay,1,1,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,3,1,1,Febrero,2
+ABIGEATO,Concepcion,2,0,1,Febrero,2
+COACCION SEXUAL,Concepcion,0,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,2,2,1,Febrero,2
+HOMICIDIO DOLOSO,Concepcion,2,1,1,Febrero,2
+HURTO,Concepcion,2,1,1,Febrero,2
+HURTO AGRAVADO,Concepcion,5,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,8,7,1,Febrero,2
+LESION,Concepcion,7,4,1,Febrero,2
+ROBO DE OBJETOS,Concepcion,4,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Concepcion,5,0,1,Febrero,2
+ROBO DE VEHICULOS,Concepcion,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Concepcion,6,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,9,1,1,Febrero,2
+ABIGEATO,Alto Paraguay,1,0,1,Febrero,2
+COACCION SEXUAL,Alto Paraguay,0,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,1,Febrero,2
+HOMICIDIO DOLOSO,Alto Paraguay,0,0,1,Febrero,2
+HURTO,Alto Paraguay,1,0,1,Febrero,2
+HURTO AGRAVADO,Alto Paraguay,0,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,0,0,1,Febrero,2
+LESION,Alto Paraguay,3,1,1,Febrero,2
+ROBO DE OBJETOS,Alto Paraguay,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,1,Febrero,2
+ROBO DE VEHICULOS,Alto Paraguay,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Alto Paraguay,2,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Febrero,2
+ABIGEATO,San Pedro,0,0,1,Febrero,2
+COACCION SEXUAL,San Pedro,0,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,8,7,1,Febrero,2
+HOMICIDIO DOLOSO,San Pedro,2,1,1,Febrero,2
+HURTO,San Pedro,3,3,1,Febrero,2
+HURTO AGRAVADO,San Pedro,3,1,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,13,13,1,Febrero,2
+LESION,San Pedro,4,1,1,Febrero,2
+ROBO DE OBJETOS,San Pedro,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,San Pedro,4,1,1,Febrero,2
+ROBO DE VEHICULOS,San Pedro,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,San Pedro,2,2,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,1,0,1,Febrero,2
+ABIGEATO,Caaguazu,3,0,1,Febrero,2
+COACCION SEXUAL,Caaguazu,2,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,6,6,1,Febrero,2
+HOMICIDIO DOLOSO,Caaguazu,1,0,1,Febrero,2
+HURTO,Caaguazu,6,2,1,Febrero,2
+HURTO AGRAVADO,Caaguazu,6,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,28,24,1,Febrero,2
+LESION,Caaguazu,7,5,1,Febrero,2
+ROBO DE OBJETOS,Caaguazu,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Caaguazu,4,0,1,Febrero,2
+ROBO DE VEHICULOS,Caaguazu,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,3,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Caaguazu,5,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,1,0,1,Febrero,2
+ABIGEATO,Caazapa,3,0,1,Febrero,2
+COACCION SEXUAL,Caazapa,4,3,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,2,2,1,Febrero,2
+HOMICIDIO DOLOSO,Caazapa,1,0,1,Febrero,2
+HURTO,Caazapa,3,1,1,Febrero,2
+HURTO AGRAVADO,Caazapa,1,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,5,5,1,Febrero,2
+LESION,Caazapa,1,0,1,Febrero,2
+ROBO DE OBJETOS,Caazapa,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Caazapa,4,0,1,Febrero,2
+ROBO DE VEHICULOS,Caazapa,1,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Caazapa,2,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,1,0,1,Febrero,2
+ABIGEATO,Guaira,3,1,1,Febrero,2
+COACCION SEXUAL,Guaira,1,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,0,0,1,Febrero,2
+HOMICIDIO DOLOSO,Guaira,1,0,1,Febrero,2
+HURTO,Guaira,4,3,1,Febrero,2
+HURTO AGRAVADO,Guaira,0,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Guaira,4,4,1,Febrero,2
+LESION,Guaira,1,0,1,Febrero,2
+ROBO DE OBJETOS,Guaira,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Guaira,5,0,1,Febrero,2
+ROBO DE VEHICULOS,Guaira,2,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Guaira,11,1,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,0,0,1,Febrero,2
+ABIGEATO,Alto Parana,0,0,1,Febrero,2
+COACCION SEXUAL,Alto Parana,5,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,12,10,1,Febrero,2
+HOMICIDIO DOLOSO,Alto Parana,8,1,1,Febrero,2
+HURTO,Alto Parana,13,7,1,Febrero,2
+HURTO AGRAVADO,Alto Parana,11,2,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,24,23,1,Febrero,2
+LESION,Alto Parana,12,5,1,Febrero,2
+ROBO DE OBJETOS,Alto Parana,5,1,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Alto Parana,19,4,1,Febrero,2
+ROBO DE VEHICULOS,Alto Parana,1,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,5,1,1,Febrero,2
+ROBO DE MOTOCICLETAS,Alto Parana,10,3,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,4,1,1,Febrero,2
+ABIGEATO,Itapua,2,0,1,Febrero,2
+COACCION SEXUAL,Itapua,3,1,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,5,5,1,Febrero,2
+HOMICIDIO DOLOSO,Itapua,3,1,1,Febrero,2
+HURTO,Itapua,16,11,1,Febrero,2
+HURTO AGRAVADO,Itapua,8,4,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Itapua,25,22,1,Febrero,2
+LESION,Itapua,11,5,1,Febrero,2
+ROBO DE OBJETOS,Itapua,2,1,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Itapua,3,1,1,Febrero,2
+ROBO DE VEHICULOS,Itapua,1,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Itapua,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Itapua,6,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,1,1,1,Febrero,2
+ABIGEATO,Canindeyu,0,0,1,Febrero,2
+COACCION SEXUAL,Canindeyu,1,1,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,0,0,1,Febrero,2
+HOMICIDIO DOLOSO,Canindeyu,1,0,1,Febrero,2
+HURTO,Canindeyu,2,2,1,Febrero,2
+HURTO AGRAVADO,Canindeyu,0,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,2,2,1,Febrero,2
+LESION,Canindeyu,0,0,1,Febrero,2
+ROBO DE OBJETOS,Canindeyu,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Canindeyu,3,0,1,Febrero,2
+ROBO DE VEHICULOS,Canindeyu,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,1,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Canindeyu,1,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,1,Febrero,2
+ABIGEATO,Misiones,0,0,1,Febrero,2
+COACCION SEXUAL,Misiones,0,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,3,2,1,Febrero,2
+HOMICIDIO DOLOSO,Misiones,1,0,1,Febrero,2
+HURTO,Misiones,2,1,1,Febrero,2
+HURTO AGRAVADO,Misiones,0,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Misiones,3,3,1,Febrero,2
+LESION,Misiones,2,0,1,Febrero,2
+ROBO DE OBJETOS,Misiones,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,1,Febrero,2
+ROBO DE VEHICULOS,Misiones,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Misiones,1,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,1,Febrero,2
+ABIGEATO,Paraguari,16,7,1,Febrero,2
+COACCION SEXUAL,Paraguari,3,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,6,5,1,Febrero,2
+HOMICIDIO DOLOSO,Paraguari,0,0,1,Febrero,2
+HURTO,Paraguari,1,0,1,Febrero,2
+HURTO AGRAVADO,Paraguari,4,2,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,27,25,1,Febrero,2
+LESION,Paraguari,5,1,1,Febrero,2
+ROBO DE OBJETOS,Paraguari,2,1,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Paraguari,3,1,1,Febrero,2
+ROBO DE VEHICULOS,Paraguari,2,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Paraguari,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Paraguari,6,1,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,0,0,1,Febrero,2
+ABIGEATO,Ñeembucu,4,0,1,Febrero,2
+COACCION SEXUAL,Ñeembucu,3,1,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,0,0,1,Febrero,2
+HOMICIDIO DOLOSO,Ñeembucu,1,0,1,Febrero,2
+HURTO,Ñeembucu,5,1,1,Febrero,2
+HURTO AGRAVADO,Ñeembucu,2,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,5,5,1,Febrero,2
+LESION,Ñeembucu,2,2,1,Febrero,2
+ROBO DE OBJETOS,Ñeembucu,1,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,1,Febrero,2
+ROBO DE VEHICULOS,Ñeembucu,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Ñeembucu,4,1,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,1,Febrero,2
+ABIGEATO,Boqueron,0,0,1,Febrero,2
+COACCION SEXUAL,Boqueron,0,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,2,2,1,Febrero,2
+HOMICIDIO DOLOSO,Boqueron,0,0,1,Febrero,2
+HURTO,Boqueron,0,0,1,Febrero,2
+HURTO AGRAVADO,Boqueron,0,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,1,1,1,Febrero,2
+LESION,Boqueron,4,1,1,Febrero,2
+ROBO DE OBJETOS,Boqueron,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,1,Febrero,2
+ROBO DE VEHICULOS,Boqueron,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Boqueron,1,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,1,Febrero,2
+ABIGEATO,Presidente Hayes,0,0,1,Febrero,2
+COACCION SEXUAL,Presidente Hayes,0,0,1,Febrero,2
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,2,2,1,Febrero,2
+HOMICIDIO DOLOSO,Presidente Hayes,0,0,1,Febrero,2
+HURTO,Presidente Hayes,0,0,1,Febrero,2
+HURTO AGRAVADO,Presidente Hayes,1,0,1,Febrero,2
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,3,3,1,Febrero,2
+LESION,Presidente Hayes,1,1,1,Febrero,2
+ROBO DE OBJETOS,Presidente Hayes,0,0,1,Febrero,2
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,3,1,1,Febrero,2
+ROBO DE VEHICULOS,Presidente Hayes,0,0,1,Febrero,2
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,1,Febrero,2
+ROBO DE MOTOCICLETAS,Presidente Hayes,5,0,1,Febrero,2
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,1,Febrero,2
+ABIGEATO,Asuncion,0,0,1,Marzo,3
+COACCION SEXUAL,Asuncion,0,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,0,0,1,Marzo,3
+HOMICIDIO DOLOSO,Asuncion,2,0,1,Marzo,3
+HURTO,Asuncion,12,10,1,Marzo,3
+HURTO AGRAVADO,Asuncion,15,1,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,7,7,1,Marzo,3
+LESION,Asuncion,21,15,1,Marzo,3
+ROBO DE OBJETOS,Asuncion,8,6,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Asuncion,13,4,1,Marzo,3
+ROBO DE VEHICULOS,Asuncion,11,1,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Asuncion,25,2,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,1,Marzo,3
+ABIGEATO,Central,1,0,1,Marzo,3
+COACCION SEXUAL,Central,13,10,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,16,14,1,Marzo,3
+HOMICIDIO DOLOSO,Central,5,3,1,Marzo,3
+HURTO,Central,30,22,1,Marzo,3
+HURTO AGRAVADO,Central,47,21,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Central,34,32,1,Marzo,3
+LESION,Central,39,16,1,Marzo,3
+ROBO DE OBJETOS,Central,11,8,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Central,46,11,1,Marzo,3
+ROBO DE VEHICULOS,Central,20,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Central,1,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Central,74,8,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Central,13,1,1,Marzo,3
+ABIGEATO,Cordillera,12,1,1,Marzo,3
+COACCION SEXUAL,Cordillera,4,2,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,1,1,1,Marzo,3
+HOMICIDIO DOLOSO,Cordillera,1,0,1,Marzo,3
+HURTO,Cordillera,6,3,1,Marzo,3
+HURTO AGRAVADO,Cordillera,7,2,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,15,14,1,Marzo,3
+LESION,Cordillera,3,3,1,Marzo,3
+ROBO DE OBJETOS,Cordillera,1,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Cordillera,2,0,1,Marzo,3
+ROBO DE VEHICULOS,Cordillera,1,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Cordillera,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Cordillera,4,1,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,1,1,1,Marzo,3
+ABIGEATO,Amambay,0,0,1,Marzo,3
+COACCION SEXUAL,Amambay,1,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,1,1,1,Marzo,3
+HOMICIDIO DOLOSO,Amambay,8,2,1,Marzo,3
+HURTO,Amambay,1,1,1,Marzo,3
+HURTO AGRAVADO,Amambay,4,3,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Amambay,5,5,1,Marzo,3
+LESION,Amambay,6,3,1,Marzo,3
+ROBO DE OBJETOS,Amambay,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Amambay,2,0,1,Marzo,3
+ROBO DE VEHICULOS,Amambay,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Amambay,1,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Amambay,2,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,0,0,1,Marzo,3
+ABIGEATO,Concepcion,2,1,1,Marzo,3
+COACCION SEXUAL,Concepcion,2,1,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,1,1,1,Marzo,3
+HOMICIDIO DOLOSO,Concepcion,2,1,1,Marzo,3
+HURTO,Concepcion,1,0,1,Marzo,3
+HURTO AGRAVADO,Concepcion,1,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,14,14,1,Marzo,3
+LESION,Concepcion,8,6,1,Marzo,3
+ROBO DE OBJETOS,Concepcion,3,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Concepcion,5,0,1,Marzo,3
+ROBO DE VEHICULOS,Concepcion,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Concepcion,12,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,8,0,1,Marzo,3
+ABIGEATO,Alto Paraguay,0,0,1,Marzo,3
+COACCION SEXUAL,Alto Paraguay,0,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,1,1,1,Marzo,3
+HOMICIDIO DOLOSO,Alto Paraguay,2,0,1,Marzo,3
+HURTO,Alto Paraguay,0,0,1,Marzo,3
+HURTO AGRAVADO,Alto Paraguay,0,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,0,0,1,Marzo,3
+LESION,Alto Paraguay,0,0,1,Marzo,3
+ROBO DE OBJETOS,Alto Paraguay,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,1,Marzo,3
+ROBO DE VEHICULOS,Alto Paraguay,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Marzo,3
+ABIGEATO,San Pedro,5,1,1,Marzo,3
+COACCION SEXUAL,San Pedro,3,1,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,4,4,1,Marzo,3
+HOMICIDIO DOLOSO,San Pedro,1,0,1,Marzo,3
+HURTO,San Pedro,2,2,1,Marzo,3
+HURTO AGRAVADO,San Pedro,2,1,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,17,16,1,Marzo,3
+LESION,San Pedro,6,2,1,Marzo,3
+ROBO DE OBJETOS,San Pedro,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,San Pedro,5,0,1,Marzo,3
+ROBO DE VEHICULOS,San Pedro,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,San Pedro,1,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,San Pedro,3,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,1,0,1,Marzo,3
+ABIGEATO,Caaguazu,5,0,1,Marzo,3
+COACCION SEXUAL,Caaguazu,1,1,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,10,10,1,Marzo,3
+HOMICIDIO DOLOSO,Caaguazu,1,0,1,Marzo,3
+HURTO,Caaguazu,6,2,1,Marzo,3
+HURTO AGRAVADO,Caaguazu,6,1,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,24,24,1,Marzo,3
+LESION,Caaguazu,4,2,1,Marzo,3
+ROBO DE OBJETOS,Caaguazu,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Caaguazu,5,0,1,Marzo,3
+ROBO DE VEHICULOS,Caaguazu,1,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Caaguazu,1,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,0,0,1,Marzo,3
+ABIGEATO,Caazapa,2,0,1,Marzo,3
+COACCION SEXUAL,Caazapa,3,1,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,0,0,1,Marzo,3
+HOMICIDIO DOLOSO,Caazapa,2,0,1,Marzo,3
+HURTO,Caazapa,1,0,1,Marzo,3
+HURTO AGRAVADO,Caazapa,5,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,3,3,1,Marzo,3
+LESION,Caazapa,2,1,1,Marzo,3
+ROBO DE OBJETOS,Caazapa,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Caazapa,1,0,1,Marzo,3
+ROBO DE VEHICULOS,Caazapa,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Caazapa,1,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Caazapa,3,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,1,0,1,Marzo,3
+ABIGEATO,Guaira,6,1,1,Marzo,3
+COACCION SEXUAL,Guaira,1,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,3,3,1,Marzo,3
+HOMICIDIO DOLOSO,Guaira,1,1,1,Marzo,3
+HURTO,Guaira,3,2,1,Marzo,3
+HURTO AGRAVADO,Guaira,0,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Guaira,4,4,1,Marzo,3
+LESION,Guaira,0,0,1,Marzo,3
+ROBO DE OBJETOS,Guaira,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Guaira,2,0,1,Marzo,3
+ROBO DE VEHICULOS,Guaira,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Guaira,1,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Guaira,3,1,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,0,0,1,Marzo,3
+ABIGEATO,Alto Parana,6,1,1,Marzo,3
+COACCION SEXUAL,Alto Parana,7,2,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,2,1,1,Marzo,3
+HOMICIDIO DOLOSO,Alto Parana,4,2,1,Marzo,3
+HURTO,Alto Parana,10,3,1,Marzo,3
+HURTO AGRAVADO,Alto Parana,11,5,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,20,19,1,Marzo,3
+LESION,Alto Parana,8,1,1,Marzo,3
+ROBO DE OBJETOS,Alto Parana,6,1,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Alto Parana,20,2,1,Marzo,3
+ROBO DE VEHICULOS,Alto Parana,2,1,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,1,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Alto Parana,8,1,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,1,0,1,Marzo,3
+ABIGEATO,Itapua,5,2,1,Marzo,3
+COACCION SEXUAL,Itapua,7,5,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,7,7,1,Marzo,3
+HOMICIDIO DOLOSO,Itapua,1,1,1,Marzo,3
+HURTO,Itapua,14,7,1,Marzo,3
+HURTO AGRAVADO,Itapua,6,2,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Itapua,14,13,1,Marzo,3
+LESION,Itapua,6,3,1,Marzo,3
+ROBO DE OBJETOS,Itapua,1,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Itapua,9,4,1,Marzo,3
+ROBO DE VEHICULOS,Itapua,1,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Itapua,1,1,1,Marzo,3
+ROBO DE MOTOCICLETAS,Itapua,9,1,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,2,0,1,Marzo,3
+ABIGEATO,Canindeyu,0,0,1,Marzo,3
+COACCION SEXUAL,Canindeyu,0,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,3,3,1,Marzo,3
+HOMICIDIO DOLOSO,Canindeyu,0,0,1,Marzo,3
+HURTO,Canindeyu,0,0,1,Marzo,3
+HURTO AGRAVADO,Canindeyu,0,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,4,4,1,Marzo,3
+LESION,Canindeyu,2,0,1,Marzo,3
+ROBO DE OBJETOS,Canindeyu,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Canindeyu,1,0,1,Marzo,3
+ROBO DE VEHICULOS,Canindeyu,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Canindeyu,0,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,1,Marzo,3
+ABIGEATO,Misiones,0,0,1,Marzo,3
+COACCION SEXUAL,Misiones,0,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,2,1,1,Marzo,3
+HOMICIDIO DOLOSO,Misiones,0,0,1,Marzo,3
+HURTO,Misiones,1,1,1,Marzo,3
+HURTO AGRAVADO,Misiones,0,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Misiones,10,10,1,Marzo,3
+LESION,Misiones,1,0,1,Marzo,3
+ROBO DE OBJETOS,Misiones,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,1,Marzo,3
+ROBO DE VEHICULOS,Misiones,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Misiones,0,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,1,Marzo,3
+ABIGEATO,Paraguari,11,3,1,Marzo,3
+COACCION SEXUAL,Paraguari,1,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,2,2,1,Marzo,3
+HOMICIDIO DOLOSO,Paraguari,0,0,1,Marzo,3
+HURTO,Paraguari,2,2,1,Marzo,3
+HURTO AGRAVADO,Paraguari,3,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,18,16,1,Marzo,3
+LESION,Paraguari,4,2,1,Marzo,3
+ROBO DE OBJETOS,Paraguari,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Paraguari,1,0,1,Marzo,3
+ROBO DE VEHICULOS,Paraguari,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Paraguari,1,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Paraguari,6,2,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,1,0,1,Marzo,3
+ABIGEATO,Ñeembucu,5,1,1,Marzo,3
+COACCION SEXUAL,Ñeembucu,0,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,0,0,1,Marzo,3
+HOMICIDIO DOLOSO,Ñeembucu,0,0,1,Marzo,3
+HURTO,Ñeembucu,2,1,1,Marzo,3
+HURTO AGRAVADO,Ñeembucu,0,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,3,3,1,Marzo,3
+LESION,Ñeembucu,1,0,1,Marzo,3
+ROBO DE OBJETOS,Ñeembucu,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,1,Marzo,3
+ROBO DE VEHICULOS,Ñeembucu,0,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Ñeembucu,2,1,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,1,Marzo,3
+ABIGEATO,Boqueron,0,0,1,Marzo,3
+COACCION SEXUAL,Boqueron,1,1,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,1,0,1,Marzo,3
+HOMICIDIO DOLOSO,Boqueron,0,0,1,Marzo,3
+HURTO,Boqueron,0,0,1,Marzo,3
+HURTO AGRAVADO,Boqueron,1,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,3,3,1,Marzo,3
+LESION,Boqueron,3,2,1,Marzo,3
+ROBO DE OBJETOS,Boqueron,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,1,Marzo,3
+ROBO DE VEHICULOS,Boqueron,1,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Boqueron,0,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,1,Marzo,3
+ABIGEATO,Presidente Hayes,1,1,1,Marzo,3
+COACCION SEXUAL,Presidente Hayes,1,0,1,Marzo,3
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,2,2,1,Marzo,3
+HOMICIDIO DOLOSO,Presidente Hayes,1,1,1,Marzo,3
+HURTO,Presidente Hayes,1,1,1,Marzo,3
+HURTO AGRAVADO,Presidente Hayes,0,0,1,Marzo,3
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,2,2,1,Marzo,3
+LESION,Presidente Hayes,4,4,1,Marzo,3
+ROBO DE OBJETOS,Presidente Hayes,0,0,1,Marzo,3
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,1,0,1,Marzo,3
+ROBO DE VEHICULOS,Presidente Hayes,1,0,1,Marzo,3
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,1,Marzo,3
+ROBO DE MOTOCICLETAS,Presidente Hayes,1,0,1,Marzo,3
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,1,Marzo,3
+ABIGEATO,Asuncion,0,0,1,Abril,4
+COACCION SEXUAL,Asuncion,2,2,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,3,3,1,Abril,4
+HOMICIDIO DOLOSO,Asuncion,2,2,1,Abril,4
+HURTO,Asuncion,12,5,1,Abril,4
+HURTO AGRAVADO,Asuncion,9,4,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,2,2,1,Abril,4
+LESION,Asuncion,10,8,1,Abril,4
+ROBO DE OBJETOS,Asuncion,7,4,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Asuncion,7,3,1,Abril,4
+ROBO DE VEHICULOS,Asuncion,14,1,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Asuncion,38,6,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,1,Abril,4
+ABIGEATO,Central,7,1,1,Abril,4
+COACCION SEXUAL,Central,7,6,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,5,5,1,Abril,4
+HOMICIDIO DOLOSO,Central,4,4,1,Abril,4
+HURTO,Central,22,15,1,Abril,4
+HURTO AGRAVADO,Central,21,7,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Central,28,27,1,Abril,4
+LESION,Central,21,10,1,Abril,4
+ROBO DE OBJETOS,Central,6,4,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Central,31,9,1,Abril,4
+ROBO DE VEHICULOS,Central,5,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Central,2,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Central,53,2,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Central,9,3,1,Abril,4
+ABIGEATO,Cordillera,7,1,1,Abril,4
+COACCION SEXUAL,Cordillera,2,2,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,1,1,1,Abril,4
+HOMICIDIO DOLOSO,Cordillera,0,0,1,Abril,4
+HURTO,Cordillera,5,1,1,Abril,4
+HURTO AGRAVADO,Cordillera,4,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,4,4,1,Abril,4
+LESION,Cordillera,3,2,1,Abril,4
+ROBO DE OBJETOS,Cordillera,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Cordillera,1,0,1,Abril,4
+ROBO DE VEHICULOS,Cordillera,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Cordillera,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Cordillera,3,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,1,0,1,Abril,4
+ABIGEATO,Amambay,1,0,1,Abril,4
+COACCION SEXUAL,Amambay,1,1,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,0,0,1,Abril,4
+HOMICIDIO DOLOSO,Amambay,9,1,1,Abril,4
+HURTO,Amambay,0,0,1,Abril,4
+HURTO AGRAVADO,Amambay,4,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Amambay,4,3,1,Abril,4
+LESION,Amambay,8,3,1,Abril,4
+ROBO DE OBJETOS,Amambay,1,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Amambay,1,0,1,Abril,4
+ROBO DE VEHICULOS,Amambay,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Amambay,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Amambay,3,1,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,1,1,1,Abril,4
+ABIGEATO,Concepcion,1,0,1,Abril,4
+COACCION SEXUAL,Concepcion,1,1,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,4,4,1,Abril,4
+HOMICIDIO DOLOSO,Concepcion,3,0,1,Abril,4
+HURTO,Concepcion,1,1,1,Abril,4
+HURTO AGRAVADO,Concepcion,3,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,5,4,1,Abril,4
+LESION,Concepcion,3,1,1,Abril,4
+ROBO DE OBJETOS,Concepcion,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Concepcion,2,0,1,Abril,4
+ROBO DE VEHICULOS,Concepcion,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Concepcion,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,2,0,1,Abril,4
+ABIGEATO,Alto Paraguay,1,0,1,Abril,4
+COACCION SEXUAL,Alto Paraguay,0,0,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,1,Abril,4
+HOMICIDIO DOLOSO,Alto Paraguay,0,0,1,Abril,4
+HURTO,Alto Paraguay,0,0,1,Abril,4
+HURTO AGRAVADO,Alto Paraguay,0,0,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,0,0,1,Abril,4
+LESION,Alto Paraguay,0,0,1,Abril,4
+ROBO DE OBJETOS,Alto Paraguay,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,1,Abril,4
+ROBO DE VEHICULOS,Alto Paraguay,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Abril,4
+ABIGEATO,San Pedro,5,2,1,Abril,4
+COACCION SEXUAL,San Pedro,4,3,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,4,4,1,Abril,4
+HOMICIDIO DOLOSO,San Pedro,1,1,1,Abril,4
+HURTO,San Pedro,1,1,1,Abril,4
+HURTO AGRAVADO,San Pedro,3,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,7,5,1,Abril,4
+LESION,San Pedro,7,3,1,Abril,4
+ROBO DE OBJETOS,San Pedro,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,San Pedro,0,0,1,Abril,4
+ROBO DE VEHICULOS,San Pedro,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,San Pedro,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,0,0,1,Abril,4
+ABIGEATO,Caaguazu,6,2,1,Abril,4
+COACCION SEXUAL,Caaguazu,2,1,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,3,3,1,Abril,4
+HOMICIDIO DOLOSO,Caaguazu,1,1,1,Abril,4
+HURTO,Caaguazu,5,2,1,Abril,4
+HURTO AGRAVADO,Caaguazu,7,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,15,9,1,Abril,4
+LESION,Caaguazu,4,3,1,Abril,4
+ROBO DE OBJETOS,Caaguazu,1,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Caaguazu,2,0,1,Abril,4
+ROBO DE VEHICULOS,Caaguazu,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Caaguazu,2,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,1,0,1,Abril,4
+ABIGEATO,Caazapa,4,0,1,Abril,4
+COACCION SEXUAL,Caazapa,1,0,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,1,0,1,Abril,4
+HOMICIDIO DOLOSO,Caazapa,2,1,1,Abril,4
+HURTO,Caazapa,1,0,1,Abril,4
+HURTO AGRAVADO,Caazapa,4,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,3,3,1,Abril,4
+LESION,Caazapa,1,0,1,Abril,4
+ROBO DE OBJETOS,Caazapa,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Caazapa,1,0,1,Abril,4
+ROBO DE VEHICULOS,Caazapa,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Caazapa,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,0,0,1,Abril,4
+ABIGEATO,Guaira,7,2,1,Abril,4
+COACCION SEXUAL,Guaira,3,2,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,1,1,1,Abril,4
+HOMICIDIO DOLOSO,Guaira,0,0,1,Abril,4
+HURTO,Guaira,2,1,1,Abril,4
+HURTO AGRAVADO,Guaira,3,3,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Guaira,3,0,1,Abril,4
+LESION,Guaira,0,0,1,Abril,4
+ROBO DE OBJETOS,Guaira,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Guaira,2,0,1,Abril,4
+ROBO DE VEHICULOS,Guaira,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Guaira,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,0,0,1,Abril,4
+ABIGEATO,Alto Parana,0,0,1,Abril,4
+COACCION SEXUAL,Alto Parana,16,15,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,3,2,1,Abril,4
+HOMICIDIO DOLOSO,Alto Parana,1,0,1,Abril,4
+HURTO,Alto Parana,13,8,1,Abril,4
+HURTO AGRAVADO,Alto Parana,9,3,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,12,12,1,Abril,4
+LESION,Alto Parana,8,2,1,Abril,4
+ROBO DE OBJETOS,Alto Parana,3,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Alto Parana,13,1,1,Abril,4
+ROBO DE VEHICULOS,Alto Parana,1,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,2,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Alto Parana,5,2,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,1,0,1,Abril,4
+ABIGEATO,Itapua,5,0,1,Abril,4
+COACCION SEXUAL,Itapua,1,1,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,0,0,1,Abril,4
+HOMICIDIO DOLOSO,Itapua,2,1,1,Abril,4
+HURTO,Itapua,3,2,1,Abril,4
+HURTO AGRAVADO,Itapua,4,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Itapua,4,4,1,Abril,4
+LESION,Itapua,5,3,1,Abril,4
+ROBO DE OBJETOS,Itapua,2,1,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Itapua,2,0,1,Abril,4
+ROBO DE VEHICULOS,Itapua,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Itapua,1,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Itapua,5,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,0,0,1,Abril,4
+ABIGEATO,Canindeyu,0,0,1,Abril,4
+COACCION SEXUAL,Canindeyu,2,1,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,2,2,1,Abril,4
+HOMICIDIO DOLOSO,Canindeyu,1,1,1,Abril,4
+HURTO,Canindeyu,1,0,1,Abril,4
+HURTO AGRAVADO,Canindeyu,2,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,0,0,1,Abril,4
+LESION,Canindeyu,1,1,1,Abril,4
+ROBO DE OBJETOS,Canindeyu,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Canindeyu,1,0,1,Abril,4
+ROBO DE VEHICULOS,Canindeyu,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Canindeyu,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,1,Abril,4
+ABIGEATO,Misiones,2,0,1,Abril,4
+COACCION SEXUAL,Misiones,0,0,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,0,0,1,Abril,4
+HOMICIDIO DOLOSO,Misiones,0,0,1,Abril,4
+HURTO,Misiones,1,0,1,Abril,4
+HURTO AGRAVADO,Misiones,8,8,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Misiones,1,1,1,Abril,4
+LESION,Misiones,0,0,1,Abril,4
+ROBO DE OBJETOS,Misiones,1,1,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,1,Abril,4
+ROBO DE VEHICULOS,Misiones,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Misiones,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,1,Abril,4
+ABIGEATO,Paraguari,8,5,1,Abril,4
+COACCION SEXUAL,Paraguari,1,0,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,1,1,1,Abril,4
+HOMICIDIO DOLOSO,Paraguari,0,0,1,Abril,4
+HURTO,Paraguari,2,2,1,Abril,4
+HURTO AGRAVADO,Paraguari,2,0,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,6,6,1,Abril,4
+LESION,Paraguari,3,3,1,Abril,4
+ROBO DE OBJETOS,Paraguari,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Paraguari,2,0,1,Abril,4
+ROBO DE VEHICULOS,Paraguari,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Paraguari,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Paraguari,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,1,1,1,Abril,4
+ABIGEATO,Ñeembucu,5,2,1,Abril,4
+COACCION SEXUAL,Ñeembucu,0,0,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,0,0,1,Abril,4
+HOMICIDIO DOLOSO,Ñeembucu,0,0,1,Abril,4
+HURTO,Ñeembucu,4,0,1,Abril,4
+HURTO AGRAVADO,Ñeembucu,1,1,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,2,2,1,Abril,4
+LESION,Ñeembucu,0,0,1,Abril,4
+ROBO DE OBJETOS,Ñeembucu,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,1,Abril,4
+ROBO DE VEHICULOS,Ñeembucu,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Ñeembucu,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,1,Abril,4
+ABIGEATO,Boqueron,0,0,1,Abril,4
+COACCION SEXUAL,Boqueron,0,0,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,0,0,1,Abril,4
+HOMICIDIO DOLOSO,Boqueron,0,0,1,Abril,4
+HURTO,Boqueron,0,0,1,Abril,4
+HURTO AGRAVADO,Boqueron,0,0,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,1,1,1,Abril,4
+LESION,Boqueron,1,1,1,Abril,4
+ROBO DE OBJETOS,Boqueron,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Boqueron,1,1,1,Abril,4
+ROBO DE VEHICULOS,Boqueron,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Boqueron,0,0,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,1,Abril,4
+ABIGEATO,Presidente Hayes,1,1,1,Abril,4
+COACCION SEXUAL,Presidente Hayes,0,0,1,Abril,4
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,0,0,1,Abril,4
+HOMICIDIO DOLOSO,Presidente Hayes,1,1,1,Abril,4
+HURTO,Presidente Hayes,1,0,1,Abril,4
+HURTO AGRAVADO,Presidente Hayes,0,0,1,Abril,4
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,1,1,1,Abril,4
+LESION,Presidente Hayes,1,1,1,Abril,4
+ROBO DE OBJETOS,Presidente Hayes,0,0,1,Abril,4
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,1,1,1,Abril,4
+ROBO DE VEHICULOS,Presidente Hayes,0,0,1,Abril,4
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,1,Abril,4
+ROBO DE MOTOCICLETAS,Presidente Hayes,3,1,1,Abril,4
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,1,Abril,4
+ABIGEATO,Asuncion,0,0,1,Mayo,5
+COACCION SEXUAL,Asuncion,4,2,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,2,2,1,Mayo,5
+HOMICIDIO DOLOSO,Asuncion,1,1,1,Mayo,5
+HURTO,Asuncion,13,4,1,Mayo,5
+HURTO AGRAVADO,Asuncion,9,3,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,17,17,1,Mayo,5
+LESION,Asuncion,7,6,1,Mayo,5
+ROBO DE OBJETOS,Asuncion,8,6,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Asuncion,7,2,1,Mayo,5
+ROBO DE VEHICULOS,Asuncion,24,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Asuncion,66,2,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,1,Mayo,5
+ABIGEATO,Central,3,0,1,Mayo,5
+COACCION SEXUAL,Central,17,16,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,22,21,1,Mayo,5
+HOMICIDIO DOLOSO,Central,2,1,1,Mayo,5
+HURTO,Central,40,19,1,Mayo,5
+HURTO AGRAVADO,Central,21,6,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Central,54,53,1,Mayo,5
+LESION,Central,33,13,1,Mayo,5
+ROBO DE OBJETOS,Central,14,5,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Central,38,6,1,Mayo,5
+ROBO DE VEHICULOS,Central,18,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Central,1,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Central,74,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Central,6,0,1,Mayo,5
+ABIGEATO,Cordillera,13,2,1,Mayo,5
+COACCION SEXUAL,Cordillera,4,1,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,2,1,1,Mayo,5
+HOMICIDIO DOLOSO,Cordillera,0,0,1,Mayo,5
+HURTO,Cordillera,5,2,1,Mayo,5
+HURTO AGRAVADO,Cordillera,5,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,13,10,1,Mayo,5
+LESION,Cordillera,6,4,1,Mayo,5
+ROBO DE OBJETOS,Cordillera,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Cordillera,1,0,1,Mayo,5
+ROBO DE VEHICULOS,Cordillera,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Cordillera,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Cordillera,4,1,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,0,0,1,Mayo,5
+ABIGEATO,Amambay,1,0,1,Mayo,5
+COACCION SEXUAL,Amambay,3,1,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,4,3,1,Mayo,5
+HOMICIDIO DOLOSO,Amambay,7,0,1,Mayo,5
+HURTO,Amambay,3,1,1,Mayo,5
+HURTO AGRAVADO,Amambay,3,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Amambay,13,13,1,Mayo,5
+LESION,Amambay,6,1,1,Mayo,5
+ROBO DE OBJETOS,Amambay,1,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Amambay,2,0,1,Mayo,5
+ROBO DE VEHICULOS,Amambay,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Amambay,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Amambay,3,2,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,3,1,1,Mayo,5
+ABIGEATO,Concepcion,1,1,1,Mayo,5
+COACCION SEXUAL,Concepcion,1,0,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,3,3,1,Mayo,5
+HOMICIDIO DOLOSO,Concepcion,3,1,1,Mayo,5
+HURTO,Concepcion,1,0,1,Mayo,5
+HURTO AGRAVADO,Concepcion,2,1,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,5,5,1,Mayo,5
+LESION,Concepcion,7,2,1,Mayo,5
+ROBO DE OBJETOS,Concepcion,2,1,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Concepcion,2,0,1,Mayo,5
+ROBO DE VEHICULOS,Concepcion,1,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Concepcion,2,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,5,0,1,Mayo,5
+ABIGEATO,Alto Paraguay,1,0,1,Mayo,5
+COACCION SEXUAL,Alto Paraguay,0,0,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,1,Mayo,5
+HOMICIDIO DOLOSO,Alto Paraguay,1,1,1,Mayo,5
+HURTO,Alto Paraguay,0,0,1,Mayo,5
+HURTO AGRAVADO,Alto Paraguay,0,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,0,0,1,Mayo,5
+LESION,Alto Paraguay,1,0,1,Mayo,5
+ROBO DE OBJETOS,Alto Paraguay,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,1,Mayo,5
+ROBO DE VEHICULOS,Alto Paraguay,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Mayo,5
+ABIGEATO,San Pedro,6,0,1,Mayo,5
+COACCION SEXUAL,San Pedro,4,2,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,11,10,1,Mayo,5
+HOMICIDIO DOLOSO,San Pedro,1,1,1,Mayo,5
+HURTO,San Pedro,1,1,1,Mayo,5
+HURTO AGRAVADO,San Pedro,3,1,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,3,2,1,Mayo,5
+LESION,San Pedro,2,0,1,Mayo,5
+ROBO DE OBJETOS,San Pedro,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,San Pedro,7,0,1,Mayo,5
+ROBO DE VEHICULOS,San Pedro,2,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,San Pedro,1,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,San Pedro,1,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,3,1,1,Mayo,5
+ABIGEATO,Caaguazu,5,2,1,Mayo,5
+COACCION SEXUAL,Caaguazu,3,2,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,3,3,1,Mayo,5
+HOMICIDIO DOLOSO,Caaguazu,0,0,1,Mayo,5
+HURTO,Caaguazu,4,2,1,Mayo,5
+HURTO AGRAVADO,Caaguazu,2,1,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,29,28,1,Mayo,5
+LESION,Caaguazu,9,3,1,Mayo,5
+ROBO DE OBJETOS,Caaguazu,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Caaguazu,6,0,1,Mayo,5
+ROBO DE VEHICULOS,Caaguazu,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Caaguazu,5,1,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,2,0,1,Mayo,5
+ABIGEATO,Caazapa,11,3,1,Mayo,5
+COACCION SEXUAL,Caazapa,0,0,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,1,1,1,Mayo,5
+HOMICIDIO DOLOSO,Caazapa,1,1,1,Mayo,5
+HURTO,Caazapa,0,0,1,Mayo,5
+HURTO AGRAVADO,Caazapa,2,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,5,5,1,Mayo,5
+LESION,Caazapa,6,3,1,Mayo,5
+ROBO DE OBJETOS,Caazapa,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Caazapa,4,0,1,Mayo,5
+ROBO DE VEHICULOS,Caazapa,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Caazapa,1,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Caazapa,4,1,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,0,0,1,Mayo,5
+ABIGEATO,Guaira,3,0,1,Mayo,5
+COACCION SEXUAL,Guaira,1,1,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,2,2,1,Mayo,5
+HOMICIDIO DOLOSO,Guaira,2,0,1,Mayo,5
+HURTO,Guaira,1,0,1,Mayo,5
+HURTO AGRAVADO,Guaira,4,1,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Guaira,6,5,1,Mayo,5
+LESION,Guaira,3,1,1,Mayo,5
+ROBO DE OBJETOS,Guaira,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Guaira,0,0,1,Mayo,5
+ROBO DE VEHICULOS,Guaira,1,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Guaira,4,2,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,0,0,1,Mayo,5
+ABIGEATO,Alto Parana,2,1,1,Mayo,5
+COACCION SEXUAL,Alto Parana,3,2,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,1,1,1,Mayo,5
+HOMICIDIO DOLOSO,Alto Parana,7,4,1,Mayo,5
+HURTO,Alto Parana,8,3,1,Mayo,5
+HURTO AGRAVADO,Alto Parana,5,2,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,14,13,1,Mayo,5
+LESION,Alto Parana,19,8,1,Mayo,5
+ROBO DE OBJETOS,Alto Parana,8,1,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Alto Parana,12,1,1,Mayo,5
+ROBO DE VEHICULOS,Alto Parana,2,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,2,1,1,Mayo,5
+ROBO DE MOTOCICLETAS,Alto Parana,6,1,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,3,0,1,Mayo,5
+ABIGEATO,Itapua,9,2,1,Mayo,5
+COACCION SEXUAL,Itapua,5,1,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,3,3,1,Mayo,5
+HOMICIDIO DOLOSO,Itapua,3,2,1,Mayo,5
+HURTO,Itapua,16,6,1,Mayo,5
+HURTO AGRAVADO,Itapua,7,3,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Itapua,15,13,1,Mayo,5
+LESION,Itapua,6,3,1,Mayo,5
+ROBO DE OBJETOS,Itapua,2,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Itapua,7,0,1,Mayo,5
+ROBO DE VEHICULOS,Itapua,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Itapua,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Itapua,5,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,4,2,1,Mayo,5
+ABIGEATO,Canindeyu,0,0,1,Mayo,5
+COACCION SEXUAL,Canindeyu,0,0,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,1,0,1,Mayo,5
+HOMICIDIO DOLOSO,Canindeyu,1,0,1,Mayo,5
+HURTO,Canindeyu,1,1,1,Mayo,5
+HURTO AGRAVADO,Canindeyu,0,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,2,2,1,Mayo,5
+LESION,Canindeyu,3,1,1,Mayo,5
+ROBO DE OBJETOS,Canindeyu,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Canindeyu,7,1,1,Mayo,5
+ROBO DE VEHICULOS,Canindeyu,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,1,1,1,Mayo,5
+ROBO DE MOTOCICLETAS,Canindeyu,2,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,1,Mayo,5
+ABIGEATO,Misiones,3,1,1,Mayo,5
+COACCION SEXUAL,Misiones,0,0,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,1,1,1,Mayo,5
+HOMICIDIO DOLOSO,Misiones,0,0,1,Mayo,5
+HURTO,Misiones,1,0,1,Mayo,5
+HURTO AGRAVADO,Misiones,2,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Misiones,5,5,1,Mayo,5
+LESION,Misiones,1,1,1,Mayo,5
+ROBO DE OBJETOS,Misiones,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,1,Mayo,5
+ROBO DE VEHICULOS,Misiones,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Misiones,1,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,1,Mayo,5
+ABIGEATO,Paraguari,13,3,1,Mayo,5
+COACCION SEXUAL,Paraguari,1,0,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,3,3,1,Mayo,5
+HOMICIDIO DOLOSO,Paraguari,0,0,1,Mayo,5
+HURTO,Paraguari,2,1,1,Mayo,5
+HURTO AGRAVADO,Paraguari,8,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,15,15,1,Mayo,5
+LESION,Paraguari,0,0,1,Mayo,5
+ROBO DE OBJETOS,Paraguari,1,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Paraguari,4,1,1,Mayo,5
+ROBO DE VEHICULOS,Paraguari,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Paraguari,1,1,1,Mayo,5
+ROBO DE MOTOCICLETAS,Paraguari,2,1,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,0,0,1,Mayo,5
+ABIGEATO,Ñeembucu,5,2,1,Mayo,5
+COACCION SEXUAL,Ñeembucu,2,2,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,1,1,1,Mayo,5
+HOMICIDIO DOLOSO,Ñeembucu,0,0,1,Mayo,5
+HURTO,Ñeembucu,2,1,1,Mayo,5
+HURTO AGRAVADO,Ñeembucu,0,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,6,6,1,Mayo,5
+LESION,Ñeembucu,0,0,1,Mayo,5
+ROBO DE OBJETOS,Ñeembucu,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,1,Mayo,5
+ROBO DE VEHICULOS,Ñeembucu,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Ñeembucu,4,1,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,1,Mayo,5
+ABIGEATO,Boqueron,0,0,1,Mayo,5
+COACCION SEXUAL,Boqueron,1,1,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,0,0,1,Mayo,5
+HOMICIDIO DOLOSO,Boqueron,0,0,1,Mayo,5
+HURTO,Boqueron,1,1,1,Mayo,5
+HURTO AGRAVADO,Boqueron,2,2,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,0,0,1,Mayo,5
+LESION,Boqueron,1,1,1,Mayo,5
+ROBO DE OBJETOS,Boqueron,0,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,1,Mayo,5
+ROBO DE VEHICULOS,Boqueron,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Boqueron,0,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,1,Mayo,5
+ABIGEATO,Presidente Hayes,0,0,1,Mayo,5
+COACCION SEXUAL,Presidente Hayes,1,1,1,Mayo,5
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,1,1,1,Mayo,5
+HOMICIDIO DOLOSO,Presidente Hayes,1,1,1,Mayo,5
+HURTO,Presidente Hayes,3,2,1,Mayo,5
+HURTO AGRAVADO,Presidente Hayes,0,0,1,Mayo,5
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,0,0,1,Mayo,5
+LESION,Presidente Hayes,3,2,1,Mayo,5
+ROBO DE OBJETOS,Presidente Hayes,1,0,1,Mayo,5
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,0,0,1,Mayo,5
+ROBO DE VEHICULOS,Presidente Hayes,0,0,1,Mayo,5
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,1,Mayo,5
+ROBO DE MOTOCICLETAS,Presidente Hayes,1,0,1,Mayo,5
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,1,Mayo,5
+ABIGEATO,Asuncion,0,0,1,Junio,6
+COACCION SEXUAL,Asuncion,3,2,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,0,0,1,Junio,6
+HOMICIDIO DOLOSO,Asuncion,7,2,1,Junio,6
+HURTO,Asuncion,20,7,1,Junio,6
+HURTO AGRAVADO,Asuncion,16,6,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,21,21,1,Junio,6
+LESION,Asuncion,10,8,1,Junio,6
+ROBO DE OBJETOS,Asuncion,5,4,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Asuncion,7,1,1,Junio,6
+ROBO DE VEHICULOS,Asuncion,23,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Asuncion,78,2,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,1,Junio,6
+ABIGEATO,Central,1,0,1,Junio,6
+COACCION SEXUAL,Central,20,16,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,8,7,1,Junio,6
+HOMICIDIO DOLOSO,Central,4,4,1,Junio,6
+HURTO,Central,40,17,1,Junio,6
+HURTO AGRAVADO,Central,36,10,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Central,61,59,1,Junio,6
+LESION,Central,33,14,1,Junio,6
+ROBO DE OBJETOS,Central,15,5,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Central,58,8,1,Junio,6
+ROBO DE VEHICULOS,Central,20,2,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Central,4,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Central,80,3,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Central,18,0,1,Junio,6
+ABIGEATO,Cordillera,4,0,1,Junio,6
+COACCION SEXUAL,Cordillera,5,2,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,3,3,1,Junio,6
+HOMICIDIO DOLOSO,Cordillera,0,0,1,Junio,6
+HURTO,Cordillera,8,2,1,Junio,6
+HURTO AGRAVADO,Cordillera,7,1,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,15,14,1,Junio,6
+LESION,Cordillera,2,0,1,Junio,6
+ROBO DE OBJETOS,Cordillera,2,1,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Cordillera,3,0,1,Junio,6
+ROBO DE VEHICULOS,Cordillera,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Cordillera,2,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Cordillera,4,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,0,0,1,Junio,6
+ABIGEATO,Amambay,2,2,1,Junio,6
+COACCION SEXUAL,Amambay,4,4,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,4,4,1,Junio,6
+HOMICIDIO DOLOSO,Amambay,8,3,1,Junio,6
+HURTO,Amambay,2,0,1,Junio,6
+HURTO AGRAVADO,Amambay,2,1,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Amambay,15,12,1,Junio,6
+LESION,Amambay,13,6,1,Junio,6
+ROBO DE OBJETOS,Amambay,1,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Amambay,6,1,1,Junio,6
+ROBO DE VEHICULOS,Amambay,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Amambay,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Amambay,2,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,2,0,1,Junio,6
+ABIGEATO,Concepcion,1,1,1,Junio,6
+COACCION SEXUAL,Concepcion,1,1,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,4,4,1,Junio,6
+HOMICIDIO DOLOSO,Concepcion,4,2,1,Junio,6
+HURTO,Concepcion,0,0,1,Junio,6
+HURTO AGRAVADO,Concepcion,3,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,6,4,1,Junio,6
+LESION,Concepcion,4,4,1,Junio,6
+ROBO DE OBJETOS,Concepcion,4,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Concepcion,3,1,1,Junio,6
+ROBO DE VEHICULOS,Concepcion,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Concepcion,2,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,2,0,1,Junio,6
+ABIGEATO,Alto Paraguay,0,0,1,Junio,6
+COACCION SEXUAL,Alto Paraguay,0,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,1,Junio,6
+HOMICIDIO DOLOSO,Alto Paraguay,1,0,1,Junio,6
+HURTO,Alto Paraguay,0,0,1,Junio,6
+HURTO AGRAVADO,Alto Paraguay,0,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,0,0,1,Junio,6
+LESION,Alto Paraguay,1,0,1,Junio,6
+ROBO DE OBJETOS,Alto Paraguay,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,1,Junio,6
+ROBO DE VEHICULOS,Alto Paraguay,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Alto Paraguay,1,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,1,Junio,6
+ABIGEATO,San Pedro,13,3,1,Junio,6
+COACCION SEXUAL,San Pedro,1,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,7,5,1,Junio,6
+HOMICIDIO DOLOSO,San Pedro,0,0,1,Junio,6
+HURTO,San Pedro,2,0,1,Junio,6
+HURTO AGRAVADO,San Pedro,3,1,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,12,12,1,Junio,6
+LESION,San Pedro,7,3,1,Junio,6
+ROBO DE OBJETOS,San Pedro,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,San Pedro,9,0,1,Junio,6
+ROBO DE VEHICULOS,San Pedro,1,1,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,San Pedro,3,1,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,4,2,1,Junio,6
+ABIGEATO,Caaguazu,3,0,1,Junio,6
+COACCION SEXUAL,Caaguazu,0,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,3,3,1,Junio,6
+HOMICIDIO DOLOSO,Caaguazu,0,0,1,Junio,6
+HURTO,Caaguazu,2,2,1,Junio,6
+HURTO AGRAVADO,Caaguazu,3,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,29,28,1,Junio,6
+LESION,Caaguazu,15,9,1,Junio,6
+ROBO DE OBJETOS,Caaguazu,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Caaguazu,8,1,1,Junio,6
+ROBO DE VEHICULOS,Caaguazu,2,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,2,1,1,Junio,6
+ROBO DE MOTOCICLETAS,Caaguazu,9,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,0,0,1,Junio,6
+ABIGEATO,Caazapa,5,0,1,Junio,6
+COACCION SEXUAL,Caazapa,0,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,2,2,1,Junio,6
+HOMICIDIO DOLOSO,Caazapa,0,0,1,Junio,6
+HURTO,Caazapa,1,0,1,Junio,6
+HURTO AGRAVADO,Caazapa,1,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,5,5,1,Junio,6
+LESION,Caazapa,1,0,1,Junio,6
+ROBO DE OBJETOS,Caazapa,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Caazapa,2,0,1,Junio,6
+ROBO DE VEHICULOS,Caazapa,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Caazapa,4,1,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,2,0,1,Junio,6
+ABIGEATO,Guaira,6,1,1,Junio,6
+COACCION SEXUAL,Guaira,0,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,3,3,1,Junio,6
+HOMICIDIO DOLOSO,Guaira,3,0,1,Junio,6
+HURTO,Guaira,5,3,1,Junio,6
+HURTO AGRAVADO,Guaira,3,2,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Guaira,11,11,1,Junio,6
+LESION,Guaira,5,5,1,Junio,6
+ROBO DE OBJETOS,Guaira,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Guaira,1,0,1,Junio,6
+ROBO DE VEHICULOS,Guaira,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Guaira,1,1,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,2,2,1,Junio,6
+ABIGEATO,Alto Parana,2,0,1,Junio,6
+COACCION SEXUAL,Alto Parana,7,2,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,6,5,1,Junio,6
+HOMICIDIO DOLOSO,Alto Parana,4,1,1,Junio,6
+HURTO,Alto Parana,11,7,1,Junio,6
+HURTO AGRAVADO,Alto Parana,10,1,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,13,10,1,Junio,6
+LESION,Alto Parana,12,2,1,Junio,6
+ROBO DE OBJETOS,Alto Parana,3,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Alto Parana,19,3,1,Junio,6
+ROBO DE VEHICULOS,Alto Parana,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,2,1,1,Junio,6
+ROBO DE MOTOCICLETAS,Alto Parana,8,1,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,4,0,1,Junio,6
+ABIGEATO,Itapua,3,0,1,Junio,6
+COACCION SEXUAL,Itapua,4,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,3,3,1,Junio,6
+HOMICIDIO DOLOSO,Itapua,1,1,1,Junio,6
+HURTO,Itapua,8,0,1,Junio,6
+HURTO AGRAVADO,Itapua,5,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Itapua,11,11,1,Junio,6
+LESION,Itapua,7,2,1,Junio,6
+ROBO DE OBJETOS,Itapua,1,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Itapua,5,0,1,Junio,6
+ROBO DE VEHICULOS,Itapua,3,2,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Itapua,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Itapua,13,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,0,0,1,Junio,6
+ABIGEATO,Canindeyu,0,0,1,Junio,6
+COACCION SEXUAL,Canindeyu,2,1,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,2,2,1,Junio,6
+HOMICIDIO DOLOSO,Canindeyu,2,0,1,Junio,6
+HURTO,Canindeyu,4,1,1,Junio,6
+HURTO AGRAVADO,Canindeyu,4,1,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,0,0,1,Junio,6
+LESION,Canindeyu,6,1,1,Junio,6
+ROBO DE OBJETOS,Canindeyu,1,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Canindeyu,1,0,1,Junio,6
+ROBO DE VEHICULOS,Canindeyu,1,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Canindeyu,1,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,1,0,1,Junio,6
+ABIGEATO,Misiones,1,0,1,Junio,6
+COACCION SEXUAL,Misiones,1,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,0,0,1,Junio,6
+HOMICIDIO DOLOSO,Misiones,0,0,1,Junio,6
+HURTO,Misiones,2,2,1,Junio,6
+HURTO AGRAVADO,Misiones,0,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Misiones,4,4,1,Junio,6
+LESION,Misiones,0,0,1,Junio,6
+ROBO DE OBJETOS,Misiones,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,1,Junio,6
+ROBO DE VEHICULOS,Misiones,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Misiones,0,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,1,Junio,6
+ABIGEATO,Paraguari,10,6,1,Junio,6
+COACCION SEXUAL,Paraguari,2,1,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,1,1,1,Junio,6
+HOMICIDIO DOLOSO,Paraguari,1,1,1,Junio,6
+HURTO,Paraguari,7,1,1,Junio,6
+HURTO AGRAVADO,Paraguari,4,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,11,11,1,Junio,6
+LESION,Paraguari,4,0,1,Junio,6
+ROBO DE OBJETOS,Paraguari,2,2,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Paraguari,0,0,1,Junio,6
+ROBO DE VEHICULOS,Paraguari,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Paraguari,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Paraguari,2,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,1,0,1,Junio,6
+ABIGEATO,Ñeembucu,9,3,1,Junio,6
+COACCION SEXUAL,Ñeembucu,1,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,0,0,1,Junio,6
+HOMICIDIO DOLOSO,Ñeembucu,0,0,1,Junio,6
+HURTO,Ñeembucu,2,0,1,Junio,6
+HURTO AGRAVADO,Ñeembucu,3,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,12,12,1,Junio,6
+LESION,Ñeembucu,1,0,1,Junio,6
+ROBO DE OBJETOS,Ñeembucu,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,1,Junio,6
+ROBO DE VEHICULOS,Ñeembucu,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Ñeembucu,1,0,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,1,Junio,6
+ABIGEATO,Boqueron,0,0,1,Junio,6
+COACCION SEXUAL,Boqueron,0,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,0,0,1,Junio,6
+HOMICIDIO DOLOSO,Boqueron,0,0,1,Junio,6
+HURTO,Boqueron,1,0,1,Junio,6
+HURTO AGRAVADO,Boqueron,0,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,1,1,1,Junio,6
+LESION,Boqueron,0,0,1,Junio,6
+ROBO DE OBJETOS,Boqueron,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,1,Junio,6
+ROBO DE VEHICULOS,Boqueron,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Boqueron,1,1,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,1,Junio,6
+ABIGEATO,Presidente Hayes,0,0,1,Junio,6
+COACCION SEXUAL,Presidente Hayes,0,0,1,Junio,6
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,2,2,1,Junio,6
+HOMICIDIO DOLOSO,Presidente Hayes,1,1,1,Junio,6
+HURTO,Presidente Hayes,4,1,1,Junio,6
+HURTO AGRAVADO,Presidente Hayes,1,0,1,Junio,6
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,4,4,1,Junio,6
+LESION,Presidente Hayes,0,0,1,Junio,6
+ROBO DE OBJETOS,Presidente Hayes,0,0,1,Junio,6
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,0,0,1,Junio,6
+ROBO DE VEHICULOS,Presidente Hayes,0,0,1,Junio,6
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,1,Junio,6
+ROBO DE MOTOCICLETAS,Presidente Hayes,4,2,1,Junio,6
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,1,Junio,7
+ABIGEATO,Asuncion,1,0,2,Julio,7
+COACCION SEXUAL,Asuncion,2,2,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,3,3,2,Julio,7
+HOMICIDIO DOLOSO,Asuncion,3,2,2,Julio,7
+HURTO,Asuncion,11,6,2,Julio,7
+HURTO AGRAVADO,Asuncion,12,5,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,12,12,2,Julio,7
+LESION,Asuncion,12,9,2,Julio,7
+ROBO DE OBJETOS,Asuncion,9,4,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Asuncion,13,5,2,Julio,7
+ROBO DE VEHICULOS,Asuncion,29,1,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Asuncion,64,3,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,2,Julio,7
+ABIGEATO,Central,2,0,2,Julio,7
+COACCION SEXUAL,Central,22,13,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,11,8,2,Julio,7
+HOMICIDIO DOLOSO,Central,2,2,2,Julio,7
+HURTO,Central,50,31,2,Julio,7
+HURTO AGRAVADO,Central,37,11,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Central,62,60,2,Julio,7
+LESION,Central,36,15,2,Julio,7
+ROBO DE OBJETOS,Central,16,8,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Central,51,12,2,Julio,7
+ROBO DE VEHICULOS,Central,32,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Central,2,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Central,87,4,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Central,15,0,2,Julio,7
+ABIGEATO,Cordillera,7,1,2,Julio,7
+COACCION SEXUAL,Cordillera,2,1,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,5,4,2,Julio,7
+HOMICIDIO DOLOSO,Cordillera,1,1,2,Julio,7
+HURTO,Cordillera,6,2,2,Julio,7
+HURTO AGRAVADO,Cordillera,6,0,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,12,11,2,Julio,7
+LESION,Cordillera,6,2,2,Julio,7
+ROBO DE OBJETOS,Cordillera,1,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Cordillera,4,0,2,Julio,7
+ROBO DE VEHICULOS,Cordillera,1,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Cordillera,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Cordillera,6,0,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,2,1,2,Julio,7
+ABIGEATO,Amambay,1,1,2,Julio,7
+COACCION SEXUAL,Amambay,1,1,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,4,4,2,Julio,7
+HOMICIDIO DOLOSO,Amambay,3,1,2,Julio,7
+HURTO,Amambay,2,0,2,Julio,7
+HURTO AGRAVADO,Amambay,3,2,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Amambay,7,5,2,Julio,7
+LESION,Amambay,7,2,2,Julio,7
+ROBO DE OBJETOS,Amambay,2,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Amambay,3,0,2,Julio,7
+ROBO DE VEHICULOS,Amambay,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Amambay,1,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Amambay,0,0,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,1,0,2,Julio,7
+ABIGEATO,Concepcion,1,1,2,Julio,7
+COACCION SEXUAL,Concepcion,0,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,3,3,2,Julio,7
+HOMICIDIO DOLOSO,Concepcion,1,0,2,Julio,7
+HURTO,Concepcion,0,0,2,Julio,7
+HURTO AGRAVADO,Concepcion,3,1,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,11,11,2,Julio,7
+LESION,Concepcion,4,1,2,Julio,7
+ROBO DE OBJETOS,Concepcion,1,1,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Concepcion,2,0,2,Julio,7
+ROBO DE VEHICULOS,Concepcion,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Concepcion,4,0,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,0,0,2,Julio,7
+ABIGEATO,Alto Paraguay,0,0,2,Julio,7
+COACCION SEXUAL,Alto Paraguay,0,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,1,1,2,Julio,7
+HOMICIDIO DOLOSO,Alto Paraguay,0,0,2,Julio,7
+HURTO,Alto Paraguay,0,0,2,Julio,7
+HURTO AGRAVADO,Alto Paraguay,0,0,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,2,2,2,Julio,7
+LESION,Alto Paraguay,0,0,2,Julio,7
+ROBO DE OBJETOS,Alto Paraguay,0,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,2,Julio,7
+ROBO DE VEHICULOS,Alto Paraguay,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Alto Paraguay,1,1,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Julio,7
+ABIGEATO,San Pedro,5,1,2,Julio,7
+COACCION SEXUAL,San Pedro,1,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,4,4,2,Julio,7
+HOMICIDIO DOLOSO,San Pedro,1,1,2,Julio,7
+HURTO,San Pedro,3,3,2,Julio,7
+HURTO AGRAVADO,San Pedro,5,1,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,10,8,2,Julio,7
+LESION,San Pedro,2,0,2,Julio,7
+ROBO DE OBJETOS,San Pedro,1,1,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,San Pedro,10,0,2,Julio,7
+ROBO DE VEHICULOS,San Pedro,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,San Pedro,1,0,2,Julio,7
+ROBO DE MOTOCICLETAS,San Pedro,3,1,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,2,0,2,Julio,7
+ABIGEATO,Caaguazu,5,1,2,Julio,7
+COACCION SEXUAL,Caaguazu,4,2,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,5,5,2,Julio,7
+HOMICIDIO DOLOSO,Caaguazu,3,2,2,Julio,7
+HURTO,Caaguazu,8,4,2,Julio,7
+HURTO AGRAVADO,Caaguazu,6,1,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,32,32,2,Julio,7
+LESION,Caaguazu,9,5,2,Julio,7
+ROBO DE OBJETOS,Caaguazu,0,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Caaguazu,5,0,2,Julio,7
+ROBO DE VEHICULOS,Caaguazu,1,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Caaguazu,7,1,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,0,0,2,Julio,7
+ABIGEATO,Caazapa,4,0,2,Julio,7
+COACCION SEXUAL,Caazapa,1,1,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,2,2,2,Julio,7
+HOMICIDIO DOLOSO,Caazapa,0,0,2,Julio,7
+HURTO,Caazapa,1,0,2,Julio,7
+HURTO AGRAVADO,Caazapa,2,0,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,2,2,2,Julio,7
+LESION,Caazapa,2,0,2,Julio,7
+ROBO DE OBJETOS,Caazapa,0,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Caazapa,2,0,2,Julio,7
+ROBO DE VEHICULOS,Caazapa,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Caazapa,1,1,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,0,0,2,Julio,7
+ABIGEATO,Guaira,2,0,2,Julio,7
+COACCION SEXUAL,Guaira,0,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,9,9,2,Julio,7
+HOMICIDIO DOLOSO,Guaira,0,0,2,Julio,7
+HURTO,Guaira,3,1,2,Julio,7
+HURTO AGRAVADO,Guaira,0,0,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Guaira,14,14,2,Julio,7
+LESION,Guaira,1,1,2,Julio,7
+ROBO DE OBJETOS,Guaira,0,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Guaira,1,0,2,Julio,7
+ROBO DE VEHICULOS,Guaira,2,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Guaira,1,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Guaira,3,1,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,0,0,2,Julio,7
+ABIGEATO,Alto Parana,1,1,2,Julio,7
+COACCION SEXUAL,Alto Parana,7,5,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,5,4,2,Julio,7
+HOMICIDIO DOLOSO,Alto Parana,1,0,2,Julio,7
+HURTO,Alto Parana,8,1,2,Julio,7
+HURTO AGRAVADO,Alto Parana,8,3,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,19,17,2,Julio,7
+LESION,Alto Parana,10,1,2,Julio,7
+ROBO DE OBJETOS,Alto Parana,4,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Alto Parana,26,5,2,Julio,7
+ROBO DE VEHICULOS,Alto Parana,3,1,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,1,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Alto Parana,10,1,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,4,1,2,Julio,7
+ABIGEATO,Itapua,7,2,2,Julio,7
+COACCION SEXUAL,Itapua,2,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,3,3,2,Julio,7
+HOMICIDIO DOLOSO,Itapua,2,0,2,Julio,7
+HURTO,Itapua,13,1,2,Julio,7
+HURTO AGRAVADO,Itapua,11,1,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Itapua,16,16,2,Julio,7
+LESION,Itapua,6,2,2,Julio,7
+ROBO DE OBJETOS,Itapua,4,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Itapua,8,0,2,Julio,7
+ROBO DE VEHICULOS,Itapua,1,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Itapua,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Itapua,8,0,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,1,0,2,Julio,7
+ABIGEATO,Canindeyu,0,0,2,Julio,7
+COACCION SEXUAL,Canindeyu,1,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,3,2,2,Julio,7
+HOMICIDIO DOLOSO,Canindeyu,1,0,2,Julio,7
+HURTO,Canindeyu,1,0,2,Julio,7
+HURTO AGRAVADO,Canindeyu,2,0,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,1,1,2,Julio,7
+LESION,Canindeyu,2,1,2,Julio,7
+ROBO DE OBJETOS,Canindeyu,1,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Canindeyu,0,0,2,Julio,7
+ROBO DE VEHICULOS,Canindeyu,1,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Canindeyu,4,0,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,2,Julio,7
+ABIGEATO,Misiones,3,0,2,Julio,7
+COACCION SEXUAL,Misiones,2,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,4,4,2,Julio,7
+HOMICIDIO DOLOSO,Misiones,0,0,2,Julio,7
+HURTO,Misiones,2,0,2,Julio,7
+HURTO AGRAVADO,Misiones,0,0,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Misiones,10,10,2,Julio,7
+LESION,Misiones,0,0,2,Julio,7
+ROBO DE OBJETOS,Misiones,1,1,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,2,Julio,7
+ROBO DE VEHICULOS,Misiones,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Misiones,2,2,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,2,Julio,7
+ABIGEATO,Paraguari,8,4,2,Julio,7
+COACCION SEXUAL,Paraguari,1,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,1,1,2,Julio,7
+HOMICIDIO DOLOSO,Paraguari,1,1,2,Julio,7
+HURTO,Paraguari,1,0,2,Julio,7
+HURTO AGRAVADO,Paraguari,6,0,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,10,10,2,Julio,7
+LESION,Paraguari,2,1,2,Julio,7
+ROBO DE OBJETOS,Paraguari,0,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Paraguari,2,0,2,Julio,7
+ROBO DE VEHICULOS,Paraguari,1,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Paraguari,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Paraguari,6,0,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,1,0,2,Julio,7
+ABIGEATO,Ñeembucu,3,0,2,Julio,7
+COACCION SEXUAL,Ñeembucu,0,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,1,1,2,Julio,7
+HOMICIDIO DOLOSO,Ñeembucu,0,0,2,Julio,7
+HURTO,Ñeembucu,2,0,2,Julio,7
+HURTO AGRAVADO,Ñeembucu,2,1,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,4,4,2,Julio,7
+LESION,Ñeembucu,2,0,2,Julio,7
+ROBO DE OBJETOS,Ñeembucu,0,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,2,Julio,7
+ROBO DE VEHICULOS,Ñeembucu,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Ñeembucu,4,2,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,2,Julio,7
+ABIGEATO,Boqueron,0,0,2,Julio,7
+COACCION SEXUAL,Boqueron,0,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,0,0,2,Julio,7
+HOMICIDIO DOLOSO,Boqueron,1,0,2,Julio,7
+HURTO,Boqueron,0,0,2,Julio,7
+HURTO AGRAVADO,Boqueron,1,1,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,1,1,2,Julio,7
+LESION,Boqueron,2,0,2,Julio,7
+ROBO DE OBJETOS,Boqueron,0,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Boqueron,2,0,2,Julio,7
+ROBO DE VEHICULOS,Boqueron,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Boqueron,0,0,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,2,Julio,7
+ABIGEATO,Presidente Hayes,1,1,2,Julio,7
+COACCION SEXUAL,Presidente Hayes,0,0,2,Julio,7
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,1,1,2,Julio,7
+HOMICIDIO DOLOSO,Presidente Hayes,1,1,2,Julio,7
+HURTO,Presidente Hayes,3,1,2,Julio,7
+HURTO AGRAVADO,Presidente Hayes,0,0,2,Julio,7
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,3,3,2,Julio,7
+LESION,Presidente Hayes,2,1,2,Julio,7
+ROBO DE OBJETOS,Presidente Hayes,0,0,2,Julio,7
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,1,0,2,Julio,7
+ROBO DE VEHICULOS,Presidente Hayes,0,0,2,Julio,7
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,2,Julio,7
+ROBO DE MOTOCICLETAS,Presidente Hayes,3,1,2,Julio,7
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,2,Julio,7
+ABIGEATO,Asuncion,0,0,2,Agosto,8
+COACCION SEXUAL,Asuncion,3,2,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,3,3,2,Agosto,8
+HOMICIDIO DOLOSO,Asuncion,1,1,2,Agosto,8
+HURTO,Asuncion,16,7,2,Agosto,8
+HURTO AGRAVADO,Asuncion,16,6,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,12,12,2,Agosto,8
+LESION,Asuncion,9,6,2,Agosto,8
+ROBO DE OBJETOS,Asuncion,12,7,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Asuncion,14,8,2,Agosto,8
+ROBO DE VEHICULOS,Asuncion,26,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Asuncion,56,3,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,2,Agosto,8
+ABIGEATO,Central,1,0,2,Agosto,8
+COACCION SEXUAL,Central,21,16,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,13,12,2,Agosto,8
+HOMICIDIO DOLOSO,Central,10,5,2,Agosto,8
+HURTO,Central,48,26,2,Agosto,8
+HURTO AGRAVADO,Central,38,17,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Central,55,52,2,Agosto,8
+LESION,Central,33,15,2,Agosto,8
+ROBO DE OBJETOS,Central,15,6,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Central,45,8,2,Agosto,8
+ROBO DE VEHICULOS,Central,20,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Central,1,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Central,89,3,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Central,9,2,2,Agosto,8
+ABIGEATO,Cordillera,8,0,2,Agosto,8
+COACCION SEXUAL,Cordillera,3,2,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,7,7,2,Agosto,8
+HOMICIDIO DOLOSO,Cordillera,1,1,2,Agosto,8
+HURTO,Cordillera,10,2,2,Agosto,8
+HURTO AGRAVADO,Cordillera,5,2,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,11,11,2,Agosto,8
+LESION,Cordillera,2,1,2,Agosto,8
+ROBO DE OBJETOS,Cordillera,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Cordillera,5,0,2,Agosto,8
+ROBO DE VEHICULOS,Cordillera,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Cordillera,1,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Cordillera,9,1,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,0,0,2,Agosto,8
+ABIGEATO,Amambay,2,1,2,Agosto,8
+COACCION SEXUAL,Amambay,6,3,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,1,0,2,Agosto,8
+HOMICIDIO DOLOSO,Amambay,9,1,2,Agosto,8
+HURTO,Amambay,5,2,2,Agosto,8
+HURTO AGRAVADO,Amambay,5,2,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Amambay,12,10,2,Agosto,8
+LESION,Amambay,18,3,2,Agosto,8
+ROBO DE OBJETOS,Amambay,4,1,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Amambay,4,2,2,Agosto,8
+ROBO DE VEHICULOS,Amambay,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Amambay,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Amambay,1,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,3,0,2,Agosto,8
+ABIGEATO,Concepcion,0,0,2,Agosto,8
+COACCION SEXUAL,Concepcion,0,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,9,8,2,Agosto,8
+HOMICIDIO DOLOSO,Concepcion,1,0,2,Agosto,8
+HURTO,Concepcion,1,0,2,Agosto,8
+HURTO AGRAVADO,Concepcion,2,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,14,13,2,Agosto,8
+LESION,Concepcion,6,1,2,Agosto,8
+ROBO DE OBJETOS,Concepcion,3,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Concepcion,4,0,2,Agosto,8
+ROBO DE VEHICULOS,Concepcion,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Concepcion,4,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,2,1,2,Agosto,8
+ABIGEATO,Alto Paraguay,1,1,2,Agosto,8
+COACCION SEXUAL,Alto Paraguay,0,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,2,Agosto,8
+HOMICIDIO DOLOSO,Alto Paraguay,0,0,2,Agosto,8
+HURTO,Alto Paraguay,0,0,2,Agosto,8
+HURTO AGRAVADO,Alto Paraguay,0,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,1,1,2,Agosto,8
+LESION,Alto Paraguay,0,0,2,Agosto,8
+ROBO DE OBJETOS,Alto Paraguay,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,2,Agosto,8
+ROBO DE VEHICULOS,Alto Paraguay,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Agosto,8
+ABIGEATO,San Pedro,6,0,2,Agosto,8
+COACCION SEXUAL,San Pedro,1,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,4,4,2,Agosto,8
+HOMICIDIO DOLOSO,San Pedro,2,0,2,Agosto,8
+HURTO,San Pedro,3,2,2,Agosto,8
+HURTO AGRAVADO,San Pedro,3,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,11,10,2,Agosto,8
+LESION,San Pedro,4,3,2,Agosto,8
+ROBO DE OBJETOS,San Pedro,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,San Pedro,8,1,2,Agosto,8
+ROBO DE VEHICULOS,San Pedro,1,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,San Pedro,1,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,3,1,2,Agosto,8
+ABIGEATO,Caaguazu,3,0,2,Agosto,8
+COACCION SEXUAL,Caaguazu,4,3,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,6,6,2,Agosto,8
+HOMICIDIO DOLOSO,Caaguazu,2,1,2,Agosto,8
+HURTO,Caaguazu,3,2,2,Agosto,8
+HURTO AGRAVADO,Caaguazu,4,2,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,21,20,2,Agosto,8
+LESION,Caaguazu,12,3,2,Agosto,8
+ROBO DE OBJETOS,Caaguazu,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Caaguazu,11,1,2,Agosto,8
+ROBO DE VEHICULOS,Caaguazu,5,1,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Caaguazu,8,3,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,4,2,2,Agosto,8
+ABIGEATO,Caazapa,0,0,2,Agosto,8
+COACCION SEXUAL,Caazapa,0,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,0,0,2,Agosto,8
+HOMICIDIO DOLOSO,Caazapa,1,1,2,Agosto,8
+HURTO,Caazapa,1,1,2,Agosto,8
+HURTO AGRAVADO,Caazapa,1,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,1,1,2,Agosto,8
+LESION,Caazapa,4,2,2,Agosto,8
+ROBO DE OBJETOS,Caazapa,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Caazapa,3,0,2,Agosto,8
+ROBO DE VEHICULOS,Caazapa,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Caazapa,2,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,0,0,2,Agosto,8
+ABIGEATO,Guaira,4,1,2,Agosto,8
+COACCION SEXUAL,Guaira,0,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,1,1,2,Agosto,8
+HOMICIDIO DOLOSO,Guaira,1,0,2,Agosto,8
+HURTO,Guaira,5,4,2,Agosto,8
+HURTO AGRAVADO,Guaira,1,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Guaira,9,9,2,Agosto,8
+LESION,Guaira,4,2,2,Agosto,8
+ROBO DE OBJETOS,Guaira,2,1,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Guaira,5,1,2,Agosto,8
+ROBO DE VEHICULOS,Guaira,1,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Guaira,3,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Guaira,2,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,1,1,2,Agosto,8
+ABIGEATO,Alto Parana,1,0,2,Agosto,8
+COACCION SEXUAL,Alto Parana,3,3,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,5,3,2,Agosto,8
+HOMICIDIO DOLOSO,Alto Parana,5,3,2,Agosto,8
+HURTO,Alto Parana,13,3,2,Agosto,8
+HURTO AGRAVADO,Alto Parana,9,1,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,17,16,2,Agosto,8
+LESION,Alto Parana,20,8,2,Agosto,8
+ROBO DE OBJETOS,Alto Parana,3,2,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Alto Parana,22,3,2,Agosto,8
+ROBO DE VEHICULOS,Alto Parana,3,1,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,5,1,2,Agosto,8
+ROBO DE MOTOCICLETAS,Alto Parana,10,4,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,3,0,2,Agosto,8
+ABIGEATO,Itapua,4,0,2,Agosto,8
+COACCION SEXUAL,Itapua,2,2,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,2,2,2,Agosto,8
+HOMICIDIO DOLOSO,Itapua,1,0,2,Agosto,8
+HURTO,Itapua,16,8,2,Agosto,8
+HURTO AGRAVADO,Itapua,6,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Itapua,13,12,2,Agosto,8
+LESION,Itapua,8,2,2,Agosto,8
+ROBO DE OBJETOS,Itapua,2,1,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Itapua,5,0,2,Agosto,8
+ROBO DE VEHICULOS,Itapua,5,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Itapua,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Itapua,17,1,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,1,1,2,Agosto,8
+ABIGEATO,Canindeyu,0,0,2,Agosto,8
+COACCION SEXUAL,Canindeyu,1,1,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,6,6,2,Agosto,8
+HOMICIDIO DOLOSO,Canindeyu,2,0,2,Agosto,8
+HURTO,Canindeyu,0,0,2,Agosto,8
+HURTO AGRAVADO,Canindeyu,1,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,3,2,2,Agosto,8
+LESION,Canindeyu,1,0,2,Agosto,8
+ROBO DE OBJETOS,Canindeyu,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Canindeyu,7,1,2,Agosto,8
+ROBO DE VEHICULOS,Canindeyu,2,1,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,1,1,2,Agosto,8
+ROBO DE MOTOCICLETAS,Canindeyu,5,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,2,Agosto,8
+ABIGEATO,Misiones,2,0,2,Agosto,8
+COACCION SEXUAL,Misiones,0,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,0,0,2,Agosto,8
+HOMICIDIO DOLOSO,Misiones,0,0,2,Agosto,8
+HURTO,Misiones,1,1,2,Agosto,8
+HURTO AGRAVADO,Misiones,0,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Misiones,6,3,2,Agosto,8
+LESION,Misiones,2,1,2,Agosto,8
+ROBO DE OBJETOS,Misiones,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,2,Agosto,8
+ROBO DE VEHICULOS,Misiones,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Misiones,2,1,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,2,Agosto,8
+ABIGEATO,Paraguari,6,1,2,Agosto,8
+COACCION SEXUAL,Paraguari,0,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,5,1,2,Agosto,8
+HOMICIDIO DOLOSO,Paraguari,10,0,2,Agosto,8
+HURTO,Paraguari,6,6,2,Agosto,8
+HURTO AGRAVADO,Paraguari,0,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,15,14,2,Agosto,8
+LESION,Paraguari,2,0,2,Agosto,8
+ROBO DE OBJETOS,Paraguari,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Paraguari,2,0,2,Agosto,8
+ROBO DE VEHICULOS,Paraguari,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Paraguari,1,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Paraguari,1,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,0,0,2,Agosto,8
+ABIGEATO,Ñeembucu,6,2,2,Agosto,8
+COACCION SEXUAL,Ñeembucu,0,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,6,2,2,Agosto,8
+HOMICIDIO DOLOSO,Ñeembucu,1,0,2,Agosto,8
+HURTO,Ñeembucu,3,3,2,Agosto,8
+HURTO AGRAVADO,Ñeembucu,2,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,9,9,2,Agosto,8
+LESION,Ñeembucu,3,2,2,Agosto,8
+ROBO DE OBJETOS,Ñeembucu,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,2,0,2,Agosto,8
+ROBO DE VEHICULOS,Ñeembucu,1,1,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Ñeembucu,1,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,2,Agosto,8
+ABIGEATO,Boqueron,0,0,2,Agosto,8
+COACCION SEXUAL,Boqueron,0,0,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,2,2,2,Agosto,8
+HOMICIDIO DOLOSO,Boqueron,0,0,2,Agosto,8
+HURTO,Boqueron,1,0,2,Agosto,8
+HURTO AGRAVADO,Boqueron,0,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,0,0,2,Agosto,8
+LESION,Boqueron,1,0,2,Agosto,8
+ROBO DE OBJETOS,Boqueron,0,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,2,Agosto,8
+ROBO DE VEHICULOS,Boqueron,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Boqueron,0,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,2,Agosto,8
+ABIGEATO,Presidente Hayes,1,0,2,Agosto,8
+COACCION SEXUAL,Presidente Hayes,1,1,2,Agosto,8
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,4,3,2,Agosto,8
+HOMICIDIO DOLOSO,Presidente Hayes,2,2,2,Agosto,8
+HURTO,Presidente Hayes,0,0,2,Agosto,8
+HURTO AGRAVADO,Presidente Hayes,0,0,2,Agosto,8
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,1,1,2,Agosto,8
+LESION,Presidente Hayes,2,2,2,Agosto,8
+ROBO DE OBJETOS,Presidente Hayes,1,0,2,Agosto,8
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,3,0,2,Agosto,8
+ROBO DE VEHICULOS,Presidente Hayes,0,0,2,Agosto,8
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,2,Agosto,8
+ROBO DE MOTOCICLETAS,Presidente Hayes,1,0,2,Agosto,8
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,2,Agosto,8
+ABIGEATO,Asuncion,0,0,2,Septiembre,9
+COACCION SEXUAL,Asuncion,4,4,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,2,2,2,Septiembre,9
+HOMICIDIO DOLOSO,Asuncion,2,2,2,Septiembre,9
+HURTO,Asuncion,21,13,2,Septiembre,9
+HURTO AGRAVADO,Asuncion,13,8,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,11,11,2,Septiembre,9
+LESION,Asuncion,12,12,2,Septiembre,9
+ROBO DE OBJETOS,Asuncion,10,7,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Asuncion,12,5,2,Septiembre,9
+ROBO DE VEHICULOS,Asuncion,27,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Asuncion,53,7,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,2,Septiembre,9
+ABIGEATO,Central,1,0,2,Septiembre,9
+COACCION SEXUAL,Central,15,13,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,16,15,2,Septiembre,9
+HOMICIDIO DOLOSO,Central,4,1,2,Septiembre,9
+HURTO,Central,33,19,2,Septiembre,9
+HURTO AGRAVADO,Central,29,16,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Central,61,59,2,Septiembre,9
+LESION,Central,30,12,2,Septiembre,9
+ROBO DE OBJETOS,Central,25,12,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Central,66,12,2,Septiembre,9
+ROBO DE VEHICULOS,Central,22,1,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Central,3,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Central,62,1,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Central,7,2,2,Septiembre,9
+ABIGEATO,Cordillera,5,0,2,Septiembre,9
+COACCION SEXUAL,Cordillera,2,0,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,5,4,2,Septiembre,9
+HOMICIDIO DOLOSO,Cordillera,1,1,2,Septiembre,9
+HURTO,Cordillera,6,3,2,Septiembre,9
+HURTO AGRAVADO,Cordillera,8,1,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,14,14,2,Septiembre,9
+LESION,Cordillera,5,3,2,Septiembre,9
+ROBO DE OBJETOS,Cordillera,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Cordillera,5,0,2,Septiembre,9
+ROBO DE VEHICULOS,Cordillera,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Cordillera,1,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Cordillera,4,2,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,1,0,2,Septiembre,9
+ABIGEATO,Amambay,2,0,2,Septiembre,9
+COACCION SEXUAL,Amambay,4,3,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,1,1,2,Septiembre,9
+HOMICIDIO DOLOSO,Amambay,15,2,2,Septiembre,9
+HURTO,Amambay,1,1,2,Septiembre,9
+HURTO AGRAVADO,Amambay,2,2,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Amambay,8,8,2,Septiembre,9
+LESION,Amambay,12,2,2,Septiembre,9
+ROBO DE OBJETOS,Amambay,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Amambay,1,1,2,Septiembre,9
+ROBO DE VEHICULOS,Amambay,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Amambay,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Amambay,2,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,1,0,2,Septiembre,9
+ABIGEATO,Concepcion,1,0,2,Septiembre,9
+COACCION SEXUAL,Concepcion,0,0,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,2,2,2,Septiembre,9
+HOMICIDIO DOLOSO,Concepcion,2,1,2,Septiembre,9
+HURTO,Concepcion,1,0,2,Septiembre,9
+HURTO AGRAVADO,Concepcion,3,1,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,11,10,2,Septiembre,9
+LESION,Concepcion,6,2,2,Septiembre,9
+ROBO DE OBJETOS,Concepcion,1,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Concepcion,1,0,2,Septiembre,9
+ROBO DE VEHICULOS,Concepcion,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Concepcion,1,1,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,3,0,2,Septiembre,9
+ABIGEATO,Alto Paraguay,2,0,2,Septiembre,9
+COACCION SEXUAL,Alto Paraguay,0,0,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,1,1,2,Septiembre,9
+HOMICIDIO DOLOSO,Alto Paraguay,0,0,2,Septiembre,9
+HURTO,Alto Paraguay,0,0,2,Septiembre,9
+HURTO AGRAVADO,Alto Paraguay,0,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,1,0,2,Septiembre,9
+LESION,Alto Paraguay,0,0,2,Septiembre,9
+ROBO DE OBJETOS,Alto Paraguay,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,2,Septiembre,9
+ROBO DE VEHICULOS,Alto Paraguay,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Septiembre,9
+ABIGEATO,San Pedro,5,0,2,Septiembre,9
+COACCION SEXUAL,San Pedro,2,1,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,8,8,2,Septiembre,9
+HOMICIDIO DOLOSO,San Pedro,4,2,2,Septiembre,9
+HURTO,San Pedro,0,0,2,Septiembre,9
+HURTO AGRAVADO,San Pedro,1,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,8,8,2,Septiembre,9
+LESION,San Pedro,3,3,2,Septiembre,9
+ROBO DE OBJETOS,San Pedro,1,1,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,San Pedro,8,2,2,Septiembre,9
+ROBO DE VEHICULOS,San Pedro,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,San Pedro,0,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,2,0,2,Septiembre,9
+ABIGEATO,Caaguazu,7,0,2,Septiembre,9
+COACCION SEXUAL,Caaguazu,4,2,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,8,8,2,Septiembre,9
+HOMICIDIO DOLOSO,Caaguazu,5,2,2,Septiembre,9
+HURTO,Caaguazu,5,2,2,Septiembre,9
+HURTO AGRAVADO,Caaguazu,8,1,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,28,26,2,Septiembre,9
+LESION,Caaguazu,7,5,2,Septiembre,9
+ROBO DE OBJETOS,Caaguazu,2,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Caaguazu,10,1,2,Septiembre,9
+ROBO DE VEHICULOS,Caaguazu,2,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,1,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Caaguazu,7,1,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,0,0,2,Septiembre,9
+ABIGEATO,Caazapa,4,2,2,Septiembre,9
+COACCION SEXUAL,Caazapa,0,0,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,1,1,2,Septiembre,9
+HOMICIDIO DOLOSO,Caazapa,0,0,2,Septiembre,9
+HURTO,Caazapa,0,0,2,Septiembre,9
+HURTO AGRAVADO,Caazapa,0,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,0,0,2,Septiembre,9
+LESION,Caazapa,1,1,2,Septiembre,9
+ROBO DE OBJETOS,Caazapa,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Caazapa,1,0,2,Septiembre,9
+ROBO DE VEHICULOS,Caazapa,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Caazapa,1,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Caazapa,1,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,1,0,2,Septiembre,9
+ABIGEATO,Guaira,7,1,2,Septiembre,9
+COACCION SEXUAL,Guaira,1,1,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,6,6,2,Septiembre,9
+HOMICIDIO DOLOSO,Guaira,0,0,2,Septiembre,9
+HURTO,Guaira,4,3,2,Septiembre,9
+HURTO AGRAVADO,Guaira,2,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Guaira,8,8,2,Septiembre,9
+LESION,Guaira,0,0,2,Septiembre,9
+ROBO DE OBJETOS,Guaira,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Guaira,2,0,2,Septiembre,9
+ROBO DE VEHICULOS,Guaira,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Guaira,7,2,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,0,0,2,Septiembre,9
+ABIGEATO,Alto Parana,0,0,2,Septiembre,9
+COACCION SEXUAL,Alto Parana,5,4,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,10,9,2,Septiembre,9
+HOMICIDIO DOLOSO,Alto Parana,3,1,2,Septiembre,9
+HURTO,Alto Parana,10,4,2,Septiembre,9
+HURTO AGRAVADO,Alto Parana,7,2,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,35,32,2,Septiembre,9
+LESION,Alto Parana,15,3,2,Septiembre,9
+ROBO DE OBJETOS,Alto Parana,7,1,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Alto Parana,29,4,2,Septiembre,9
+ROBO DE VEHICULOS,Alto Parana,2,1,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,4,1,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Alto Parana,6,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,4,0,2,Septiembre,9
+ABIGEATO,Itapua,2,1,2,Septiembre,9
+COACCION SEXUAL,Itapua,3,1,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,4,4,2,Septiembre,9
+HOMICIDIO DOLOSO,Itapua,1,0,2,Septiembre,9
+HURTO,Itapua,9,2,2,Septiembre,9
+HURTO AGRAVADO,Itapua,11,1,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Itapua,24,23,2,Septiembre,9
+LESION,Itapua,8,3,2,Septiembre,9
+ROBO DE OBJETOS,Itapua,5,1,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Itapua,8,1,2,Septiembre,9
+ROBO DE VEHICULOS,Itapua,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Itapua,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Itapua,16,2,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,2,0,2,Septiembre,9
+ABIGEATO,Canindeyu,1,0,2,Septiembre,9
+COACCION SEXUAL,Canindeyu,0,0,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,4,4,2,Septiembre,9
+HOMICIDIO DOLOSO,Canindeyu,5,2,2,Septiembre,9
+HURTO,Canindeyu,2,1,2,Septiembre,9
+HURTO AGRAVADO,Canindeyu,1,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,0,0,2,Septiembre,9
+LESION,Canindeyu,4,0,2,Septiembre,9
+ROBO DE OBJETOS,Canindeyu,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Canindeyu,4,0,2,Septiembre,9
+ROBO DE VEHICULOS,Canindeyu,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Canindeyu,1,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,2,Septiembre,9
+ABIGEATO,Misiones,3,1,2,Septiembre,9
+COACCION SEXUAL,Misiones,0,0,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,2,2,2,Septiembre,9
+HOMICIDIO DOLOSO,Misiones,0,0,2,Septiembre,9
+HURTO,Misiones,2,1,2,Septiembre,9
+HURTO AGRAVADO,Misiones,2,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Misiones,10,10,2,Septiembre,9
+LESION,Misiones,4,0,2,Septiembre,9
+ROBO DE OBJETOS,Misiones,1,1,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,2,Septiembre,9
+ROBO DE VEHICULOS,Misiones,1,1,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Misiones,1,1,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,2,Septiembre,9
+ABIGEATO,Paraguari,6,2,2,Septiembre,9
+COACCION SEXUAL,Paraguari,3,2,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,6,6,2,Septiembre,9
+HOMICIDIO DOLOSO,Paraguari,1,0,2,Septiembre,9
+HURTO,Paraguari,3,1,2,Septiembre,9
+HURTO AGRAVADO,Paraguari,5,1,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,21,20,2,Septiembre,9
+LESION,Paraguari,5,1,2,Septiembre,9
+ROBO DE OBJETOS,Paraguari,1,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Paraguari,7,1,2,Septiembre,9
+ROBO DE VEHICULOS,Paraguari,2,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Paraguari,1,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Paraguari,6,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,0,0,2,Septiembre,9
+ABIGEATO,Ñeembucu,6,1,2,Septiembre,9
+COACCION SEXUAL,Ñeembucu,0,0,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,1,0,2,Septiembre,9
+HOMICIDIO DOLOSO,Ñeembucu,1,1,2,Septiembre,9
+HURTO,Ñeembucu,3,0,2,Septiembre,9
+HURTO AGRAVADO,Ñeembucu,0,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,7,7,2,Septiembre,9
+LESION,Ñeembucu,0,0,2,Septiembre,9
+ROBO DE OBJETOS,Ñeembucu,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,2,Septiembre,9
+ROBO DE VEHICULOS,Ñeembucu,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Ñeembucu,2,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,2,Septiembre,9
+ABIGEATO,Boqueron,0,0,2,Septiembre,9
+COACCION SEXUAL,Boqueron,0,0,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,0,0,2,Septiembre,9
+HOMICIDIO DOLOSO,Boqueron,0,0,2,Septiembre,9
+HURTO,Boqueron,0,0,2,Septiembre,9
+HURTO AGRAVADO,Boqueron,0,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,1,1,2,Septiembre,9
+LESION,Boqueron,0,0,2,Septiembre,9
+ROBO DE OBJETOS,Boqueron,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Boqueron,1,0,2,Septiembre,9
+ROBO DE VEHICULOS,Boqueron,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Boqueron,0,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,2,Septiembre,9
+ABIGEATO,Presidente Hayes,2,1,2,Septiembre,9
+COACCION SEXUAL,Presidente Hayes,1,1,2,Septiembre,9
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,1,1,2,Septiembre,9
+HOMICIDIO DOLOSO,Presidente Hayes,0,0,2,Septiembre,9
+HURTO,Presidente Hayes,3,1,2,Septiembre,9
+HURTO AGRAVADO,Presidente Hayes,1,0,2,Septiembre,9
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,0,0,2,Septiembre,9
+LESION,Presidente Hayes,1,0,2,Septiembre,9
+ROBO DE OBJETOS,Presidente Hayes,0,0,2,Septiembre,9
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,1,0,2,Septiembre,9
+ROBO DE VEHICULOS,Presidente Hayes,0,0,2,Septiembre,9
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,2,Septiembre,9
+ROBO DE MOTOCICLETAS,Presidente Hayes,2,0,2,Septiembre,9
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,2,Septiembre,9
+ABIGEATO,Asuncion,0,0,2,Octubre,10
+COACCION SEXUAL,Asuncion,4,4,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,4,4,2,Octubre,10
+HOMICIDIO DOLOSO,Asuncion,1,1,2,Octubre,10
+HURTO,Asuncion,12,7,2,Octubre,10
+HURTO AGRAVADO,Asuncion,16,10,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,16,16,2,Octubre,10
+LESION,Asuncion,11,3,2,Octubre,10
+ROBO DE OBJETOS,Asuncion,5,3,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Asuncion,14,4,2,Octubre,10
+ROBO DE VEHICULOS,Asuncion,29,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Asuncion,42,1,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,2,Octubre,10
+ABIGEATO,Central,0,0,2,Octubre,10
+COACCION SEXUAL,Central,20,17,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,15,14,2,Octubre,10
+HOMICIDIO DOLOSO,Central,5,2,2,Octubre,10
+HURTO,Central,33,15,2,Octubre,10
+HURTO AGRAVADO,Central,28,12,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Central,53,52,2,Octubre,10
+LESION,Central,26,11,2,Octubre,10
+ROBO DE OBJETOS,Central,11,7,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Central,44,8,2,Octubre,10
+ROBO DE VEHICULOS,Central,26,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Central,7,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Central,65,1,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Central,6,0,2,Octubre,10
+ABIGEATO,Cordillera,1,0,2,Octubre,10
+COACCION SEXUAL,Cordillera,0,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,5,5,2,Octubre,10
+HOMICIDIO DOLOSO,Cordillera,0,0,2,Octubre,10
+HURTO,Cordillera,3,1,2,Octubre,10
+HURTO AGRAVADO,Cordillera,12,2,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,22,22,2,Octubre,10
+LESION,Cordillera,2,1,2,Octubre,10
+ROBO DE OBJETOS,Cordillera,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Cordillera,2,0,2,Octubre,10
+ROBO DE VEHICULOS,Cordillera,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Cordillera,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Cordillera,7,0,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,0,0,2,Octubre,10
+ABIGEATO,Amambay,1,0,2,Octubre,10
+COACCION SEXUAL,Amambay,1,1,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,4,4,2,Octubre,10
+HOMICIDIO DOLOSO,Amambay,11,1,2,Octubre,10
+HURTO,Amambay,2,2,2,Octubre,10
+HURTO AGRAVADO,Amambay,1,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Amambay,8,7,2,Octubre,10
+LESION,Amambay,4,1,2,Octubre,10
+ROBO DE OBJETOS,Amambay,2,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Amambay,1,1,2,Octubre,10
+ROBO DE VEHICULOS,Amambay,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Amambay,1,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Amambay,1,0,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,0,0,2,Octubre,10
+ABIGEATO,Concepcion,1,0,2,Octubre,10
+COACCION SEXUAL,Concepcion,0,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,6,5,2,Octubre,10
+HOMICIDIO DOLOSO,Concepcion,3,0,2,Octubre,10
+HURTO,Concepcion,2,0,2,Octubre,10
+HURTO AGRAVADO,Concepcion,5,2,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,7,6,2,Octubre,10
+LESION,Concepcion,5,2,2,Octubre,10
+ROBO DE OBJETOS,Concepcion,2,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Concepcion,4,0,2,Octubre,10
+ROBO DE VEHICULOS,Concepcion,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Concepcion,5,0,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,6,0,2,Octubre,10
+ABIGEATO,Alto Paraguay,0,0,2,Octubre,10
+COACCION SEXUAL,Alto Paraguay,0,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,2,Octubre,10
+HOMICIDIO DOLOSO,Alto Paraguay,0,0,2,Octubre,10
+HURTO,Alto Paraguay,0,0,2,Octubre,10
+HURTO AGRAVADO,Alto Paraguay,0,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,1,1,2,Octubre,10
+LESION,Alto Paraguay,0,0,2,Octubre,10
+ROBO DE OBJETOS,Alto Paraguay,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,2,Octubre,10
+ROBO DE VEHICULOS,Alto Paraguay,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Octubre,10
+ABIGEATO,San Pedro,19,4,2,Octubre,10
+COACCION SEXUAL,San Pedro,2,2,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,7,7,2,Octubre,10
+HOMICIDIO DOLOSO,San Pedro,1,0,2,Octubre,10
+HURTO,San Pedro,8,4,2,Octubre,10
+HURTO AGRAVADO,San Pedro,5,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,16,14,2,Octubre,10
+LESION,San Pedro,11,2,2,Octubre,10
+ROBO DE OBJETOS,San Pedro,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,San Pedro,18,1,2,Octubre,10
+ROBO DE VEHICULOS,San Pedro,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,San Pedro,5,3,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,0,0,2,Octubre,10
+ABIGEATO,Caaguazu,12,0,2,Octubre,10
+COACCION SEXUAL,Caaguazu,7,1,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,11,11,2,Octubre,10
+HOMICIDIO DOLOSO,Caaguazu,4,2,2,Octubre,10
+HURTO,Caaguazu,9,2,2,Octubre,10
+HURTO AGRAVADO,Caaguazu,7,4,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,42,40,2,Octubre,10
+LESION,Caaguazu,15,9,2,Octubre,10
+ROBO DE OBJETOS,Caaguazu,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Caaguazu,15,0,2,Octubre,10
+ROBO DE VEHICULOS,Caaguazu,1,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,1,1,2,Octubre,10
+ROBO DE MOTOCICLETAS,Caaguazu,11,2,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,2,1,2,Octubre,10
+ABIGEATO,Caazapa,3,1,2,Octubre,10
+COACCION SEXUAL,Caazapa,1,1,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,2,2,2,Octubre,10
+HOMICIDIO DOLOSO,Caazapa,1,1,2,Octubre,10
+HURTO,Caazapa,1,1,2,Octubre,10
+HURTO AGRAVADO,Caazapa,1,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,8,8,2,Octubre,10
+LESION,Caazapa,1,1,2,Octubre,10
+ROBO DE OBJETOS,Caazapa,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Caazapa,4,0,2,Octubre,10
+ROBO DE VEHICULOS,Caazapa,1,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Caazapa,1,0,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,1,0,2,Octubre,10
+ABIGEATO,Guaira,10,4,2,Octubre,10
+COACCION SEXUAL,Guaira,1,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,2,2,2,Octubre,10
+HOMICIDIO DOLOSO,Guaira,2,1,2,Octubre,10
+HURTO,Guaira,1,1,2,Octubre,10
+HURTO AGRAVADO,Guaira,3,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Guaira,13,13,2,Octubre,10
+LESION,Guaira,2,1,2,Octubre,10
+ROBO DE OBJETOS,Guaira,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Guaira,2,1,2,Octubre,10
+ROBO DE VEHICULOS,Guaira,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Guaira,3,1,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,1,1,2,Octubre,10
+ABIGEATO,Alto Parana,2,0,2,Octubre,10
+COACCION SEXUAL,Alto Parana,6,3,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,5,4,2,Octubre,10
+HOMICIDIO DOLOSO,Alto Parana,2,1,2,Octubre,10
+HURTO,Alto Parana,15,5,2,Octubre,10
+HURTO AGRAVADO,Alto Parana,6,3,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,27,26,2,Octubre,10
+LESION,Alto Parana,8,3,2,Octubre,10
+ROBO DE OBJETOS,Alto Parana,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Alto Parana,21,1,2,Octubre,10
+ROBO DE VEHICULOS,Alto Parana,3,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,3,1,2,Octubre,10
+ROBO DE MOTOCICLETAS,Alto Parana,6,1,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,5,1,2,Octubre,10
+ABIGEATO,Itapua,5,0,2,Octubre,10
+COACCION SEXUAL,Itapua,2,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,2,2,2,Octubre,10
+HOMICIDIO DOLOSO,Itapua,5,3,2,Octubre,10
+HURTO,Itapua,14,2,2,Octubre,10
+HURTO AGRAVADO,Itapua,4,1,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Itapua,21,19,2,Octubre,10
+LESION,Itapua,6,1,2,Octubre,10
+ROBO DE OBJETOS,Itapua,4,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Itapua,18,1,2,Octubre,10
+ROBO DE VEHICULOS,Itapua,2,1,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Itapua,2,1,2,Octubre,10
+ROBO DE MOTOCICLETAS,Itapua,4,1,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,1,0,2,Octubre,10
+ABIGEATO,Canindeyu,0,0,2,Octubre,10
+COACCION SEXUAL,Canindeyu,0,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,2,2,2,Octubre,10
+HOMICIDIO DOLOSO,Canindeyu,5,2,2,Octubre,10
+HURTO,Canindeyu,0,0,2,Octubre,10
+HURTO AGRAVADO,Canindeyu,0,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,1,1,2,Octubre,10
+LESION,Canindeyu,2,1,2,Octubre,10
+ROBO DE OBJETOS,Canindeyu,1,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Canindeyu,1,0,2,Octubre,10
+ROBO DE VEHICULOS,Canindeyu,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Canindeyu,1,0,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,2,Octubre,10
+ABIGEATO,Misiones,2,1,2,Octubre,10
+COACCION SEXUAL,Misiones,1,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,1,1,2,Octubre,10
+HOMICIDIO DOLOSO,Misiones,0,0,2,Octubre,10
+HURTO,Misiones,2,0,2,Octubre,10
+HURTO AGRAVADO,Misiones,2,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Misiones,8,8,2,Octubre,10
+LESION,Misiones,1,0,2,Octubre,10
+ROBO DE OBJETOS,Misiones,1,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,2,Octubre,10
+ROBO DE VEHICULOS,Misiones,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Misiones,5,2,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,2,Octubre,10
+ABIGEATO,Paraguari,2,1,2,Octubre,10
+COACCION SEXUAL,Paraguari,4,1,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,3,3,2,Octubre,10
+HOMICIDIO DOLOSO,Paraguari,0,0,2,Octubre,10
+HURTO,Paraguari,1,0,2,Octubre,10
+HURTO AGRAVADO,Paraguari,7,1,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,21,20,2,Octubre,10
+LESION,Paraguari,5,0,2,Octubre,10
+ROBO DE OBJETOS,Paraguari,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Paraguari,4,0,2,Octubre,10
+ROBO DE VEHICULOS,Paraguari,1,1,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Paraguari,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Paraguari,12,3,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,0,0,2,Octubre,10
+ABIGEATO,Ñeembucu,9,1,2,Octubre,10
+COACCION SEXUAL,Ñeembucu,0,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,0,0,2,Octubre,10
+HOMICIDIO DOLOSO,Ñeembucu,0,0,2,Octubre,10
+HURTO,Ñeembucu,6,1,2,Octubre,10
+HURTO AGRAVADO,Ñeembucu,1,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,8,8,2,Octubre,10
+LESION,Ñeembucu,3,1,2,Octubre,10
+ROBO DE OBJETOS,Ñeembucu,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,2,Octubre,10
+ROBO DE VEHICULOS,Ñeembucu,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Ñeembucu,2,1,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,2,Octubre,10
+ABIGEATO,Boqueron,0,0,2,Octubre,10
+COACCION SEXUAL,Boqueron,0,0,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,0,0,2,Octubre,10
+HOMICIDIO DOLOSO,Boqueron,1,1,2,Octubre,10
+HURTO,Boqueron,0,0,2,Octubre,10
+HURTO AGRAVADO,Boqueron,0,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,1,1,2,Octubre,10
+LESION,Boqueron,0,0,2,Octubre,10
+ROBO DE OBJETOS,Boqueron,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,2,Octubre,10
+ROBO DE VEHICULOS,Boqueron,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Boqueron,0,0,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,2,Octubre,10
+ABIGEATO,Presidente Hayes,1,0,2,Octubre,10
+COACCION SEXUAL,Presidente Hayes,1,1,2,Octubre,10
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,2,2,2,Octubre,10
+HOMICIDIO DOLOSO,Presidente Hayes,0,0,2,Octubre,10
+HURTO,Presidente Hayes,2,0,2,Octubre,10
+HURTO AGRAVADO,Presidente Hayes,1,0,2,Octubre,10
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,4,4,2,Octubre,10
+LESION,Presidente Hayes,2,2,2,Octubre,10
+ROBO DE OBJETOS,Presidente Hayes,0,0,2,Octubre,10
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,3,0,2,Octubre,10
+ROBO DE VEHICULOS,Presidente Hayes,0,0,2,Octubre,10
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,2,Octubre,10
+ROBO DE MOTOCICLETAS,Presidente Hayes,5,3,2,Octubre,10
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,2,Octubre,10
+ABIGEATO,Asuncion,0,0,2,Noviembre,11
+COACCION SEXUAL,Asuncion,5,3,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,4,4,2,Noviembre,11
+HOMICIDIO DOLOSO,Asuncion,1,1,2,Noviembre,11
+HURTO,Asuncion,13,7,2,Noviembre,11
+HURTO AGRAVADO,Asuncion,4,3,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,10,10,2,Noviembre,11
+LESION,Asuncion,14,4,2,Noviembre,11
+ROBO DE OBJETOS,Asuncion,4,2,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Asuncion,9,2,2,Noviembre,11
+ROBO DE VEHICULOS,Asuncion,27,1,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Asuncion,50,3,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,0,0,2,Noviembre,11
+ABIGEATO,Central,0,0,2,Noviembre,11
+COACCION SEXUAL,Central,26,21,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,15,14,2,Noviembre,11
+HOMICIDIO DOLOSO,Central,3,2,2,Noviembre,11
+HURTO,Central,36,24,2,Noviembre,11
+HURTO AGRAVADO,Central,25,8,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Central,66,63,2,Noviembre,11
+LESION,Central,26,6,2,Noviembre,11
+ROBO DE OBJETOS,Central,20,10,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Central,51,5,2,Noviembre,11
+ROBO DE VEHICULOS,Central,32,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Central,4,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Central,70,0,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Central,7,0,2,Noviembre,11
+ABIGEATO,Cordillera,3,0,2,Noviembre,11
+COACCION SEXUAL,Cordillera,5,4,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,5,5,2,Noviembre,11
+HOMICIDIO DOLOSO,Cordillera,0,0,2,Noviembre,11
+HURTO,Cordillera,4,0,2,Noviembre,11
+HURTO AGRAVADO,Cordillera,5,1,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,21,21,2,Noviembre,11
+LESION,Cordillera,3,3,2,Noviembre,11
+ROBO DE OBJETOS,Cordillera,1,1,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Cordillera,1,0,2,Noviembre,11
+ROBO DE VEHICULOS,Cordillera,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Cordillera,1,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Cordillera,4,1,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,0,0,2,Noviembre,11
+ABIGEATO,Amambay,1,0,2,Noviembre,11
+COACCION SEXUAL,Amambay,8,4,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,1,1,2,Noviembre,11
+HOMICIDIO DOLOSO,Amambay,13,1,2,Noviembre,11
+HURTO,Amambay,2,0,2,Noviembre,11
+HURTO AGRAVADO,Amambay,0,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Amambay,6,6,2,Noviembre,11
+LESION,Amambay,17,6,2,Noviembre,11
+ROBO DE OBJETOS,Amambay,3,1,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Amambay,0,0,2,Noviembre,11
+ROBO DE VEHICULOS,Amambay,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Amambay,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Amambay,7,1,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,0,0,2,Noviembre,11
+ABIGEATO,Concepcion,3,0,2,Noviembre,11
+COACCION SEXUAL,Concepcion,1,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,2,2,2,Noviembre,11
+HOMICIDIO DOLOSO,Concepcion,4,2,2,Noviembre,11
+HURTO,Concepcion,5,0,2,Noviembre,11
+HURTO AGRAVADO,Concepcion,2,1,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,7,6,2,Noviembre,11
+LESION,Concepcion,12,1,2,Noviembre,11
+ROBO DE OBJETOS,Concepcion,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Concepcion,9,4,2,Noviembre,11
+ROBO DE VEHICULOS,Concepcion,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Concepcion,6,2,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,4,0,2,Noviembre,11
+ABIGEATO,Alto Paraguay,0,0,2,Noviembre,11
+COACCION SEXUAL,Alto Paraguay,0,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,2,Noviembre,11
+HOMICIDIO DOLOSO,Alto Paraguay,1,1,2,Noviembre,11
+HURTO,Alto Paraguay,0,0,2,Noviembre,11
+HURTO AGRAVADO,Alto Paraguay,0,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,1,1,2,Noviembre,11
+LESION,Alto Paraguay,1,1,2,Noviembre,11
+ROBO DE OBJETOS,Alto Paraguay,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,0,0,2,Noviembre,11
+ROBO DE VEHICULOS,Alto Paraguay,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Noviembre,11
+ABIGEATO,San Pedro,8,2,2,Noviembre,11
+COACCION SEXUAL,San Pedro,3,2,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,4,4,2,Noviembre,11
+HOMICIDIO DOLOSO,San Pedro,0,0,2,Noviembre,11
+HURTO,San Pedro,5,3,2,Noviembre,11
+HURTO AGRAVADO,San Pedro,2,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,15,15,2,Noviembre,11
+LESION,San Pedro,8,2,2,Noviembre,11
+ROBO DE OBJETOS,San Pedro,2,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,San Pedro,7,1,2,Noviembre,11
+ROBO DE VEHICULOS,San Pedro,1,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,San Pedro,4,2,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,0,0,2,Noviembre,11
+ABIGEATO,Caaguazu,18,0,2,Noviembre,11
+COACCION SEXUAL,Caaguazu,1,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,11,11,2,Noviembre,11
+HOMICIDIO DOLOSO,Caaguazu,2,1,2,Noviembre,11
+HURTO,Caaguazu,14,1,2,Noviembre,11
+HURTO AGRAVADO,Caaguazu,14,2,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,29,28,2,Noviembre,11
+LESION,Caaguazu,10,5,2,Noviembre,11
+ROBO DE OBJETOS,Caaguazu,1,1,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Caaguazu,18,5,2,Noviembre,11
+ROBO DE VEHICULOS,Caaguazu,1,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Caaguazu,15,3,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,1,1,2,Noviembre,11
+ABIGEATO,Caazapa,2,1,2,Noviembre,11
+COACCION SEXUAL,Caazapa,0,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,0,0,2,Noviembre,11
+HOMICIDIO DOLOSO,Caazapa,1,0,2,Noviembre,11
+HURTO,Caazapa,1,1,2,Noviembre,11
+HURTO AGRAVADO,Caazapa,0,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,2,1,2,Noviembre,11
+LESION,Caazapa,2,0,2,Noviembre,11
+ROBO DE OBJETOS,Caazapa,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Caazapa,1,0,2,Noviembre,11
+ROBO DE VEHICULOS,Caazapa,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Caazapa,1,1,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,0,0,2,Noviembre,11
+ABIGEATO,Guaira,6,2,2,Noviembre,11
+COACCION SEXUAL,Guaira,0,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,1,1,2,Noviembre,11
+HOMICIDIO DOLOSO,Guaira,2,1,2,Noviembre,11
+HURTO,Guaira,4,4,2,Noviembre,11
+HURTO AGRAVADO,Guaira,1,1,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Guaira,13,13,2,Noviembre,11
+LESION,Guaira,6,3,2,Noviembre,11
+ROBO DE OBJETOS,Guaira,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Guaira,8,1,2,Noviembre,11
+ROBO DE VEHICULOS,Guaira,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Guaira,8,4,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,1,0,2,Noviembre,11
+ABIGEATO,Alto Parana,41,5,2,Noviembre,11
+COACCION SEXUAL,Alto Parana,49,34,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,43,42,2,Noviembre,11
+HOMICIDIO DOLOSO,Alto Parana,27,9,2,Noviembre,11
+HURTO,Alto Parana,84,40,2,Noviembre,11
+HURTO AGRAVADO,Alto Parana,53,16,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,170,164,2,Noviembre,11
+LESION,Alto Parana,99,31,2,Noviembre,11
+ROBO DE OBJETOS,Alto Parana,31,15,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Alto Parana,104,18,2,Noviembre,11
+ROBO DE VEHICULOS,Alto Parana,61,1,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,5,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Alto Parana,165,17,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,13,1,2,Noviembre,11
+ABIGEATO,Itapua,3,0,2,Noviembre,11
+COACCION SEXUAL,Itapua,2,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,8,8,2,Noviembre,11
+HOMICIDIO DOLOSO,Itapua,4,2,2,Noviembre,11
+HURTO,Itapua,15,6,2,Noviembre,11
+HURTO AGRAVADO,Itapua,8,2,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Itapua,27,26,2,Noviembre,11
+LESION,Itapua,14,6,2,Noviembre,11
+ROBO DE OBJETOS,Itapua,6,2,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Itapua,22,6,2,Noviembre,11
+ROBO DE VEHICULOS,Itapua,7,1,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Itapua,1,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Itapua,5,2,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,3,1,2,Noviembre,11
+ABIGEATO,Canindeyu,0,0,2,Noviembre,11
+COACCION SEXUAL,Canindeyu,0,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,3,2,2,Noviembre,11
+HOMICIDIO DOLOSO,Canindeyu,1,0,2,Noviembre,11
+HURTO,Canindeyu,3,0,2,Noviembre,11
+HURTO AGRAVADO,Canindeyu,1,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,4,4,2,Noviembre,11
+LESION,Canindeyu,0,0,2,Noviembre,11
+ROBO DE OBJETOS,Canindeyu,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Canindeyu,5,1,2,Noviembre,11
+ROBO DE VEHICULOS,Canindeyu,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Canindeyu,4,0,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,2,Noviembre,11
+ABIGEATO,Misiones,2,1,2,Noviembre,11
+COACCION SEXUAL,Misiones,1,1,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,1,1,2,Noviembre,11
+HOMICIDIO DOLOSO,Misiones,1,1,2,Noviembre,11
+HURTO,Misiones,0,0,2,Noviembre,11
+HURTO AGRAVADO,Misiones,1,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Misiones,11,10,2,Noviembre,11
+LESION,Misiones,2,2,2,Noviembre,11
+ROBO DE OBJETOS,Misiones,1,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Misiones,1,0,2,Noviembre,11
+ROBO DE VEHICULOS,Misiones,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Misiones,1,0,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,2,Noviembre,11
+ABIGEATO,Paraguari,11,0,2,Noviembre,11
+COACCION SEXUAL,Paraguari,3,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,1,1,2,Noviembre,11
+HOMICIDIO DOLOSO,Paraguari,1,1,2,Noviembre,11
+HURTO,Paraguari,3,1,2,Noviembre,11
+HURTO AGRAVADO,Paraguari,7,1,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,20,19,2,Noviembre,11
+LESION,Paraguari,3,0,2,Noviembre,11
+ROBO DE OBJETOS,Paraguari,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Paraguari,5,1,2,Noviembre,11
+ROBO DE VEHICULOS,Paraguari,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Paraguari,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Paraguari,6,1,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,0,0,2,Noviembre,11
+ABIGEATO,Ñeembucu,3,1,2,Noviembre,11
+COACCION SEXUAL,Ñeembucu,0,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,1,1,2,Noviembre,11
+HOMICIDIO DOLOSO,Ñeembucu,0,0,2,Noviembre,11
+HURTO,Ñeembucu,3,1,2,Noviembre,11
+HURTO AGRAVADO,Ñeembucu,1,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,9,9,2,Noviembre,11
+LESION,Ñeembucu,1,1,2,Noviembre,11
+ROBO DE OBJETOS,Ñeembucu,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,0,0,2,Noviembre,11
+ROBO DE VEHICULOS,Ñeembucu,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Ñeembucu,1,0,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,2,Noviembre,11
+ABIGEATO,Boqueron,0,0,2,Noviembre,11
+COACCION SEXUAL,Boqueron,0,0,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,1,1,2,Noviembre,11
+HOMICIDIO DOLOSO,Boqueron,1,1,2,Noviembre,11
+HURTO,Boqueron,1,0,2,Noviembre,11
+HURTO AGRAVADO,Boqueron,0,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,3,3,2,Noviembre,11
+LESION,Boqueron,0,0,2,Noviembre,11
+ROBO DE OBJETOS,Boqueron,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,2,Noviembre,11
+ROBO DE VEHICULOS,Boqueron,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Boqueron,1,0,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,2,Noviembre,11
+ABIGEATO,Presidente Hayes,2,1,2,Noviembre,11
+COACCION SEXUAL,Presidente Hayes,2,1,2,Noviembre,11
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,3,3,2,Noviembre,11
+HOMICIDIO DOLOSO,Presidente Hayes,0,0,2,Noviembre,11
+HURTO,Presidente Hayes,3,3,2,Noviembre,11
+HURTO AGRAVADO,Presidente Hayes,1,0,2,Noviembre,11
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,0,0,2,Noviembre,11
+LESION,Presidente Hayes,1,0,2,Noviembre,11
+ROBO DE OBJETOS,Presidente Hayes,0,0,2,Noviembre,11
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,0,0,2,Noviembre,11
+ROBO DE VEHICULOS,Presidente Hayes,0,0,2,Noviembre,11
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,2,Noviembre,11
+ROBO DE MOTOCICLETAS,Presidente Hayes,2,1,2,Noviembre,11
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,2,Noviembre,11
+ABIGEATO,Asuncion,0,0,2,Diciembre,12
+COACCION SEXUAL,Asuncion,4,4,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Asuncion,3,3,2,Diciembre,12
+HOMICIDIO DOLOSO,Asuncion,2,1,2,Diciembre,12
+HURTO,Asuncion,18,17,2,Diciembre,12
+HURTO AGRAVADO,Asuncion,15,5,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Asuncion,9,9,2,Diciembre,12
+LESION,Asuncion,15,8,2,Diciembre,12
+ROBO DE OBJETOS,Asuncion,5,2,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Asuncion,12,6,2,Diciembre,12
+ROBO DE VEHICULOS,Asuncion,23,1,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Asuncion,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Asuncion,73,2,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Asuncion,1,0,2,Diciembre,12
+ABIGEATO,Central,2,0,2,Diciembre,12
+COACCION SEXUAL,Central,10,8,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Central,13,11,2,Diciembre,12
+HOMICIDIO DOLOSO,Central,9,8,2,Diciembre,12
+HURTO,Central,26,10,2,Diciembre,12
+HURTO AGRAVADO,Central,41,10,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Central,62,57,2,Diciembre,12
+LESION,Central,24,4,2,Diciembre,12
+ROBO DE OBJETOS,Central,16,7,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Central,66,5,2,Diciembre,12
+ROBO DE VEHICULOS,Central,33,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Central,4,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Central,91,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Central,10,0,2,Diciembre,12
+ABIGEATO,Cordillera,5,0,2,Diciembre,12
+COACCION SEXUAL,Cordillera,0,0,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Cordillera,1,1,2,Diciembre,12
+HOMICIDIO DOLOSO,Cordillera,2,2,2,Diciembre,12
+HURTO,Cordillera,3,0,2,Diciembre,12
+HURTO AGRAVADO,Cordillera,5,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Cordillera,19,18,2,Diciembre,12
+LESION,Cordillera,4,4,2,Diciembre,12
+ROBO DE OBJETOS,Cordillera,0,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Cordillera,5,1,2,Diciembre,12
+ROBO DE VEHICULOS,Cordillera,1,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Cordillera,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Cordillera,9,2,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Cordillera,0,0,2,Diciembre,12
+ABIGEATO,Amambay,2,1,2,Diciembre,12
+COACCION SEXUAL,Amambay,0,0,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Amambay,2,2,2,Diciembre,12
+HOMICIDIO DOLOSO,Amambay,13,2,2,Diciembre,12
+HURTO,Amambay,1,1,2,Diciembre,12
+HURTO AGRAVADO,Amambay,4,2,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Amambay,13,11,2,Diciembre,12
+LESION,Amambay,8,4,2,Diciembre,12
+ROBO DE OBJETOS,Amambay,2,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Amambay,4,0,2,Diciembre,12
+ROBO DE VEHICULOS,Amambay,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Amambay,1,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Amambay,4,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Amambay,2,0,2,Diciembre,12
+ABIGEATO,Concepcion,1,0,2,Diciembre,12
+COACCION SEXUAL,Concepcion,2,1,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Concepcion,9,8,2,Diciembre,12
+HOMICIDIO DOLOSO,Concepcion,3,0,2,Diciembre,12
+HURTO,Concepcion,2,1,2,Diciembre,12
+HURTO AGRAVADO,Concepcion,4,2,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Concepcion,9,9,2,Diciembre,12
+LESION,Concepcion,6,1,2,Diciembre,12
+ROBO DE OBJETOS,Concepcion,1,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Concepcion,8,1,2,Diciembre,12
+ROBO DE VEHICULOS,Concepcion,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Concepcion,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Concepcion,3,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Concepcion,2,0,2,Diciembre,12
+ABIGEATO,Alto Paraguay,0,0,2,Diciembre,12
+COACCION SEXUAL,Alto Paraguay,0,0,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Paraguay,0,0,2,Diciembre,12
+HOMICIDIO DOLOSO,Alto Paraguay,0,0,2,Diciembre,12
+HURTO,Alto Paraguay,1,0,2,Diciembre,12
+HURTO AGRAVADO,Alto Paraguay,0,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Alto Paraguay,0,0,2,Diciembre,12
+LESION,Alto Paraguay,2,1,2,Diciembre,12
+ROBO DE OBJETOS,Alto Paraguay,0,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Alto Paraguay,1,0,2,Diciembre,12
+ROBO DE VEHICULOS,Alto Paraguay,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Alto Paraguay,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Paraguay,0,0,2,Diciembre,12
+ABIGEATO,San Pedro,11,1,2,Diciembre,12
+COACCION SEXUAL,San Pedro,1,0,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,San Pedro,12,11,2,Diciembre,12
+HOMICIDIO DOLOSO,San Pedro,1,0,2,Diciembre,12
+HURTO,San Pedro,5,3,2,Diciembre,12
+HURTO AGRAVADO,San Pedro,9,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,San Pedro,19,24,2,Diciembre,12
+LESION,San Pedro,5,2,2,Diciembre,12
+ROBO DE OBJETOS,San Pedro,1,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,San Pedro,10,1,2,Diciembre,12
+ROBO DE VEHICULOS,San Pedro,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,San Pedro,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,San Pedro,5,2,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,San Pedro,1,0,2,Diciembre,12
+ABIGEATO,Caaguazu,25,8,2,Diciembre,12
+COACCION SEXUAL,Caaguazu,5,3,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caaguazu,7,7,2,Diciembre,12
+HOMICIDIO DOLOSO,Caaguazu,3,1,2,Diciembre,12
+HURTO,Caaguazu,14,6,2,Diciembre,12
+HURTO AGRAVADO,Caaguazu,12,1,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Caaguazu,32,32,2,Diciembre,12
+LESION,Caaguazu,10,5,2,Diciembre,12
+ROBO DE OBJETOS,Caaguazu,2,1,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Caaguazu,9,1,2,Diciembre,12
+ROBO DE VEHICULOS,Caaguazu,3,2,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Caaguazu,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Caaguazu,13,1,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Caaguazu,4,1,2,Diciembre,12
+ABIGEATO,Caazapa,6,2,2,Diciembre,12
+COACCION SEXUAL,Caazapa,2,2,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Caazapa,2,2,2,Diciembre,12
+HOMICIDIO DOLOSO,Caazapa,3,0,2,Diciembre,12
+HURTO,Caazapa,3,0,2,Diciembre,12
+HURTO AGRAVADO,Caazapa,0,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Caazapa,7,7,2,Diciembre,12
+LESION,Caazapa,3,2,2,Diciembre,12
+ROBO DE OBJETOS,Caazapa,0,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Caazapa,0,0,2,Diciembre,12
+ROBO DE VEHICULOS,Caazapa,1,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Caazapa,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Caazapa,0,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Caazapa,0,0,2,Diciembre,12
+ABIGEATO,Guaira,12,1,2,Diciembre,12
+COACCION SEXUAL,Guaira,5,2,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Guaira,1,1,2,Diciembre,12
+HOMICIDIO DOLOSO,Guaira,2,1,2,Diciembre,12
+HURTO,Guaira,3,2,2,Diciembre,12
+HURTO AGRAVADO,Guaira,6,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Guaira,16,16,2,Diciembre,12
+LESION,Guaira,3,1,2,Diciembre,12
+ROBO DE OBJETOS,Guaira,1,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Guaira,2,0,2,Diciembre,12
+ROBO DE VEHICULOS,Guaira,1,1,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Guaira,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Guaira,7,2,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Guaira,0,0,2,Diciembre,12
+ABIGEATO,Alto Parana,1,0,2,Diciembre,12
+COACCION SEXUAL,Alto Parana,3,1,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Alto Parana,5,3,2,Diciembre,12
+HOMICIDIO DOLOSO,Alto Parana,6,3,2,Diciembre,12
+HURTO,Alto Parana,11,2,2,Diciembre,12
+HURTO AGRAVADO,Alto Parana,5,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Alto Parana,25,23,2,Diciembre,12
+LESION,Alto Parana,13,3,2,Diciembre,12
+ROBO DE OBJETOS,Alto Parana,2,2,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Alto Parana,14,0,2,Diciembre,12
+ROBO DE VEHICULOS,Alto Parana,4,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Alto Parana,4,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Alto Parana,3,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Alto Parana,1,0,2,Diciembre,12
+ABIGEATO,Itapua,6,1,2,Diciembre,12
+COACCION SEXUAL,Itapua,2,1,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Itapua,5,5,2,Diciembre,12
+HOMICIDIO DOLOSO,Itapua,3,1,2,Diciembre,12
+HURTO,Itapua,10,0,2,Diciembre,12
+HURTO AGRAVADO,Itapua,5,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Itapua,10,10,2,Diciembre,12
+LESION,Itapua,9,4,2,Diciembre,12
+ROBO DE OBJETOS,Itapua,3,2,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Itapua,17,0,2,Diciembre,12
+ROBO DE VEHICULOS,Itapua,1,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Itapua,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Itapua,5,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Itapua,0,0,2,Diciembre,12
+ABIGEATO,Canindeyu,0,0,2,Diciembre,12
+COACCION SEXUAL,Canindeyu,1,1,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Canindeyu,1,1,2,Diciembre,12
+HOMICIDIO DOLOSO,Canindeyu,1,0,2,Diciembre,12
+HURTO,Canindeyu,2,1,2,Diciembre,12
+HURTO AGRAVADO,Canindeyu,2,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Canindeyu,1,1,2,Diciembre,12
+LESION,Canindeyu,3,1,2,Diciembre,12
+ROBO DE OBJETOS,Canindeyu,0,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Canindeyu,9,1,2,Diciembre,12
+ROBO DE VEHICULOS,Canindeyu,1,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Canindeyu,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Canindeyu,0,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Canindeyu,0,0,2,Diciembre,12
+ABIGEATO,Misiones,2,0,2,Diciembre,12
+COACCION SEXUAL,Misiones,0,0,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Misiones,4,3,2,Diciembre,12
+HOMICIDIO DOLOSO,Misiones,0,0,2,Diciembre,12
+HURTO,Misiones,4,3,2,Diciembre,12
+HURTO AGRAVADO,Misiones,5,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Misiones,23,22,2,Diciembre,12
+LESION,Misiones,2,2,2,Diciembre,12
+ROBO DE OBJETOS,Misiones,1,1,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Misiones,0,0,2,Diciembre,12
+ROBO DE VEHICULOS,Misiones,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Misiones,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Misiones,7,4,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Misiones,0,0,2,Diciembre,12
+ABIGEATO,Paraguari,7,1,2,Diciembre,12
+COACCION SEXUAL,Paraguari,3,1,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Paraguari,3,3,2,Diciembre,12
+HOMICIDIO DOLOSO,Paraguari,1,0,2,Diciembre,12
+HURTO,Paraguari,3,1,2,Diciembre,12
+HURTO AGRAVADO,Paraguari,7,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Paraguari,16,16,2,Diciembre,12
+LESION,Paraguari,2,0,2,Diciembre,12
+ROBO DE OBJETOS,Paraguari,2,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Paraguari,0,0,2,Diciembre,12
+ROBO DE VEHICULOS,Paraguari,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Paraguari,1,1,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Paraguari,7,2,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Paraguari,0,0,2,Diciembre,12
+ABIGEATO,Ñeembucu,4,0,2,Diciembre,12
+COACCION SEXUAL,Ñeembucu,0,0,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Ñeembucu,1,1,2,Diciembre,12
+HOMICIDIO DOLOSO,Ñeembucu,0,0,2,Diciembre,12
+HURTO,Ñeembucu,2,1,2,Diciembre,12
+HURTO AGRAVADO,Ñeembucu,1,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Ñeembucu,7,7,2,Diciembre,12
+LESION,Ñeembucu,0,0,2,Diciembre,12
+ROBO DE OBJETOS,Ñeembucu,0,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Ñeembucu,2,0,2,Diciembre,12
+ROBO DE VEHICULOS,Ñeembucu,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Ñeembucu,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Ñeembucu,1,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Ñeembucu,0,0,2,Diciembre,12
+ABIGEATO,Boqueron,1,0,2,Diciembre,12
+COACCION SEXUAL,Boqueron,0,0,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Boqueron,0,0,2,Diciembre,12
+HOMICIDIO DOLOSO,Boqueron,1,1,2,Diciembre,12
+HURTO,Boqueron,0,0,2,Diciembre,12
+HURTO AGRAVADO,Boqueron,0,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Boqueron,1,1,2,Diciembre,12
+LESION,Boqueron,1,1,2,Diciembre,12
+ROBO DE OBJETOS,Boqueron,0,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Boqueron,0,0,2,Diciembre,12
+ROBO DE VEHICULOS,Boqueron,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Boqueron,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Boqueron,0,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Boqueron,0,0,2,Diciembre,12
+ABIGEATO,Presidente Hayes,2,0,2,Diciembre,12
+COACCION SEXUAL,Presidente Hayes,1,1,2,Diciembre,12
+HOMICIDIO CULPOSO EN ACC DE TTO.,Presidente Hayes,1,1,2,Diciembre,12
+HOMICIDIO DOLOSO,Presidente Hayes,0,0,2,Diciembre,12
+HURTO,Presidente Hayes,2,0,2,Diciembre,12
+HURTO AGRAVADO,Presidente Hayes,0,0,2,Diciembre,12
+LESION CULPOSA EN ACC. DE TTO.,Presidente Hayes,2,2,2,Diciembre,12
+LESION,Presidente Hayes,3,2,2,Diciembre,12
+ROBO DE OBJETOS,Presidente Hayes,0,0,2,Diciembre,12
+ROBO AGRAVADO DE OBJETOS,Presidente Hayes,0,0,2,Diciembre,12
+ROBO DE VEHICULOS,Presidente Hayes,0,0,2,Diciembre,12
+ROBO AGRAVADO DE VEHICULOS,Presidente Hayes,0,0,2,Diciembre,12
+ROBO DE MOTOCICLETAS,Presidente Hayes,0,0,2,Diciembre,12
+ROBO AGRAVADO DE MOTOCICLETAS,Presidente Hayes,0,0,2,Diciembre,12
